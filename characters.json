@@ -9,54 +9,54 @@
         "talents": {
             "attack": {
                 "name": "Sharpshooter",
-                "description": "<b>Normal Attack</b>: Perform up to 5 consecutive shots with a bow.<br /><b>Charged Attack<b/>: Perform a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal <b>Pyro DMG</b>.<br /><b>Plunging Attack</b>: Fires off a shower of arrows in mid-air before falling an striking the ground, dealing AoE DMG upon impact."
+                "description": "<b>Normal Attack<\/b>: Perform up to 5 consecutive shots with a bow.<br \/><b>Charged Attack<b/>: Perform a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal <b>Pyro DMG<\/b>.<br \/><b>Plunging Attack<\/b>: Fires off a shower of arrows in mid-air before falling an striking the ground, dealing AoE DMG upon impact."
             },
             "skill": {
                 "name": "Explosive Puppet",
-                "description": "The ever-reliable Baron Bunny takes the stage.<br /><b>Baron Bunny:</b><br /><ul><li>Continuously taunts the enemy, drawing their fire.</li><li>Baron Bunny's HP scales with Amber's Max HP.</li><li>When destroyed or when its timer expires, Baron Bunny explodes, dealing <b>AoE Pyro DMG</b>.</li></ul><br /><b>Hold:</b> Adjusts the throwing direction of Baron Bunny. The longer the button is held, the further the throw."
+                "description": "The ever-reliable Baron Bunny takes the stage.<br \/><b>Baron Bunny:<\/b><br \/><ul><li>Continuously taunts the enemy, drawing their fire.<\/li><li>Baron Bunny's HP scales with Amber's Max HP.<\/li><li>When destroyed or when its timer expires, Baron Bunny explodes, dealing <b>AoE Pyro DMG<\/b>.<\/li><\/ul><br \/><b>Hold:<\/b> Adjusts the throwing direction of Baron Bunny. The longer the button is held, the further the throw."
             },
             "burst": {
                 "name": "Fiery Rain",
-                "description": "Fires off a shower of arrows, dealing continuous <b>AoE Pyro DMG</b>."
+                "description": "Fires off a shower of arrows, dealing continuous <b>AoE Pyro DMG<\/b>."
             },
             "a1passive": {
                 "name": "Every Arrow Finds Its Target",
-                "description": "Increases the CRIT Rate of <b>Fiery Rain</b> by 10% and widens its AoE by 30%."
+                "description": "Increases the CRIT Rate of <b>Fiery Rain<\/b> by 10% and widens its AoE by 30%."
             },
             "a4passive": {
                 "name": "Precise Shot",
-                "description": "<b>Aimed Shot</b> hits on weak spots increase ATK by 15% for 10s."
+                "description": "<b>Aimed Shot<\/b> hits on weak spots increase ATK by 15% for 10s."
             },
             "utilpassive": {
                 "name": "Gliding Champion",
-                "description": "Decreases gliding Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+                "description": "Decreases gliding Stamina consumption for your own party members by 20%.<br \/>Not stackable with Passive Talents that provide the exact same effects."
             }
         },
         "constellation": {
             "name": "Lepus",
             "c1": {
                 "name": "One Arrow to Rule Them All",
-                "description": "Fires 2 arrows per <b>Aimed Shot</b>. The second arrow deals 20% of the first arrow's DMG."
+                "description": "Fires 2 arrows per <b>Aimed Shot<\/b>. The second arrow deals 20% of the first arrow's DMG."
             },
             "c2": {
                 "name": "Bunny Triggered",
-                "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged <b>Aimed Shot</b> manually detonates it.<br />Explosion via manual detonation deals 200% additional DMG."
+                "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged <b>Aimed Shot<\/b> manually detonates it.<br \/>Explosion via manual detonation deals 200% additional DMG."
             },
             "c3": {
                 "name": "It Burns!",
-                "description": "Increases the Level of <b>Fiery Rain</b> by 3.<br />Maximum upgrade level is 15."
+                "description": "Increases the Level of <b>Fiery Rain<\/b> by 3.<br \/>Maximum upgrade level is 15."
             },
             "c4": {
                 "name": "It's Not Just Any Doll...",
-                "description": "Decreases <b>Explosive Puppet</b>'s CD by 20%. Adds 1 additional charge."
+                "description": "Decreases <b>Explosive Puppet<\/b>'s CD by 20%. Adds 1 additional charge."
             },
             "c5": {
                 "name": "It's Baron Bunny!",
-                "description": "Increases the Level of Explosive Puppet by 3.<br />Maximum upgrade level is 15."
+                "description": "Increases the Level of Explosive Puppet by 3.<br \/>Maximum upgrade level is 15."
             },
             "c6": {
                 "name": "Wildfire",
-                "description": "<b>Fiery Rain</b> increases all party members' Movement SPD by 15% and ATK by 15% for 10s."
+                "description": "<b>Fiery Rain<\/b> increases all party members' Movement SPD by 15% and ATK by 15% for 10s."
             }
         },
         "materials": {
