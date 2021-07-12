@@ -17,7 +17,11 @@
         "constellation": "Lepus",
         "birthday": "8/10",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Kelly Baskin",
+            "jp": "Manaka Iwami (石見舞菜香)"
+        }
     },
     {
         "id": 1,
@@ -37,7 +41,11 @@
         "constellation": "Crater",
         "birthday": "7/5",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Laura Stahl",
+            "jp": "Akari Kitō (鬼頭明里)"
+        }
     },
     {
         "id": 2,
@@ -57,7 +65,11 @@
         "constellation": "Victor Mare",
         "birthday": "2/14",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Allegra Clark",
+            "jp": "Ami Koshimizu (小清水亜美)"
+        }
     },
     {
         "id": 3,
@@ -77,7 +89,11 @@
         "constellation": "Rota Calamitas",
         "birthday": "2/29",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Cristina Vee Valenzuela",
+            "jp": "Ryōta Ōsaka (逢坂良太)"
+        }
     },
     {
         "id": 4,
@@ -97,7 +113,11 @@
         "constellation": "Nubis Caesor",
         "birthday": "9/7",
         "gender": "Male",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Beau Bridgland",
+            "jp": "Soma Saito (斉藤壮馬)"
+        }
     },
     {
         "id": 5,
@@ -117,7 +137,11 @@
         "constellation": "Noctua",
         "birthday": "4/30",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Sean Chiplock",
+            "jp": "Kensho Ono (小野賢章)"
+        }
     },
     {
         "id": 6,
@@ -137,7 +161,11 @@
         "constellation": "Corvus",
         "birthday": "5/27",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Brittany Cox & Ben Pronsky",
+            "jp": "Maaya Uchida (内田真礼) & Yasunori Masutani (増谷康紀)"
+        }
     },
     {
         "id": 7,
@@ -157,7 +185,11 @@
         "constellation": "Leo Minor",
         "birthday": "3/14",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Stephanie Southerland",
+            "jp": "Chiwa Saitō (斎藤千和)"
+        }
     },
     {
         "id": 8,
@@ -177,7 +209,11 @@
         "constellation": "Pavo Ocellus",
         "birthday": "11/30",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Josey Montana McCoy",
+            "jp": "Kohsuke Toriumi (鳥海浩輔)"
+        }
     },
     {
         "id": 9,
@@ -197,7 +233,11 @@
         "constellation": "Trulla Cementarii",
         "birthday": "11/20",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Kayli Mills",
+            "jp": "Eri Kitamura (喜多村英梨)"
+        }
     },
     {
         "id": 10,
@@ -217,7 +257,11 @@
         "constellation": "Trifolium",
         "birthday": "7/27",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Poonam Basu",
+            "jp": "Misaki Kuno (久野美咲)"
+        }
     },
     {
         "id": 11,
@@ -237,7 +281,11 @@
         "constellation": "Tempus Fugit",
         "birthday": "6/9",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Mara Junot",
+            "jp": "Rie Tanaka (田中理恵)"
+        }
     },
     {
         "id": 12,
@@ -257,7 +305,11 @@
         "constellation": "Astrolabos",
         "birthday": "8/31",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Felecia Angelle",
+            "jp": "Konomi Kohara (小原好美)"
+        }
     },
     {
         "id": 13,
@@ -277,7 +329,11 @@
         "constellation": "Opus Aequilibrium",
         "birthday": "8/26",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Erin Ebers",
+            "jp": "Sayaka Ohara (大原さやか)"
+        }
     },
     {
         "id": 14,
@@ -297,7 +353,11 @@
         "constellation": "Parma Cordids",
         "birthday": "3/21",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Laura Faye Smith",
+            "jp": "Kanon Takao (高尾奏音)"
+        }
     },
     {
         "id": 15,
@@ -317,7 +377,11 @@
         "constellation": "Pristina Nola",
         "birthday": "3/3",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Christie Cate",
+            "jp": "Yukari Tamura (田村ゆかり)"
+        }
     },
     {
         "id": 16,
@@ -337,7 +401,11 @@
         "constellation": "Lupis Minor",
         "birthday": "9/9",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Todd Haberkorn",
+            "jp": "Kōki Uchiyama (内山昂輝)"
+        }
     },
     {
         "id": 17,
@@ -357,7 +425,11 @@
         "constellation": "Ampulla",
         "birthday": "11/26",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Valeria Rodriguez",
+            "jp": "Akane Fujita (藤田茜)"
+        }
     },
     {
         "id": 18,
@@ -377,7 +449,11 @@
         "constellation": "Carmen Dei",
         "birthday": "6/16",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Erika Harlacher",
+            "jp": "Ayumu Murase (村瀬歩)"
+        }
     },
     {
         "id": 19,
@@ -397,7 +473,11 @@
         "constellation": "Trulla",
         "birthday": "11/2",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Jackie Lastra",
+            "jp": "Ari Ozawa (小澤亜李)"
+        }
     },
     {
         "id": 20,
@@ -417,7 +497,11 @@
         "constellation": "Fabulae Textile",
         "birthday": "10/9",
         "gender": "Male",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Cristina Vee Valenzuela",
+            "jp": "Junko Minagawa (皆川純子)"
+        }
     },
     {
         "id": 21,
@@ -437,7 +521,11 @@
         "constellation": "Monoceros Caeli",
         "birthday": "7/20",
         "gender": "Male",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Griffin Burns",
+            "jp": "Ryōhei Kimura (木村良平)"
+        }
     },
     {
         "id": 22,
@@ -457,7 +545,11 @@
         "constellation": "Feles",
         "birthday": "1/18",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Dina Sherman",
+            "jp": "Shiori Izawa (井澤詩織)"
+        }
     },
     {
         "id": 23,
@@ -477,7 +569,11 @@
         "constellation": "Lapis Dei",
         "birthday": "12/31",
         "gender": "Male",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Keith Silverstein",
+            "jp": "Tomoaki Maeno (前野智昭)"
+        }
     },
     {
         "id": 24,
@@ -497,7 +593,11 @@
         "constellation": "Fila Ignium",
         "birthday": "10/16",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Laura Stahl",
+            "jp": "Chiaki Takahashi (たかはし智秋)"
+        }
     },
     {
         "id": 25,
@@ -517,7 +617,11 @@
         "constellation": "Princeps Cretaceus",
         "birthday": "9/13",
         "gender": "Male",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Khoi Dao",
+            "jp": "Kenji Nojima (野島健児)"
+        }
     },
     {
         "id": 26,
@@ -537,7 +641,11 @@
         "constellation": "Sinae Unicornis",
         "birthday": "12/2",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Jennifer Losi",
+            "jp": "Reina Ueda (上田麗奈)"
+        }
     },
     {
         "id": 27,
@@ -557,7 +665,11 @@
         "constellation": "Alatus Nemeseos",
         "birthday": "4/17",
         "gender": "Male",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Laila Berzins",
+            "jp": "Yoshitsugu Matsuoka (松岡禎丞)"
+        }
     },
     {
         "id": 28,
@@ -577,7 +689,11 @@
         "constellation": "Papilio Charontis",
         "birthday": "7/15",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Brianna Knickerbocker",
+            "jp": "Rie Takahashi (高橋李依)"
+        }
     },
     {
         "id": 29,
@@ -597,7 +713,11 @@
         "constellation": "Spinea Corona",
         "birthday": "1/24",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Elizabeth Maxwell",
+            "jp": "Ai Kakuma (加隈亜衣)"
+        }
     },
     {
         "id": 30,
@@ -617,7 +737,11 @@
         "constellation": "Bestia Iustitia",
         "birthday": "7/28",
         "gender": "Female",
-        "nation": "Liyue"
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Lizzie Freeman",
+            "jp": "Yumiri Hanamori (花守 ゆみり)"
+        }
     },
     {
         "id": 31,
@@ -637,7 +761,11 @@
         "constellation": "Aphros Delos",
         "birthday": "10/25",
         "gender": "Female",
-        "nation": "Mondstadt"
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Suzie Yeung",
+            "jp": "Rina Sato (佐藤利奈)"
+        }
     },
     {
         "id": 32,
@@ -657,6 +785,10 @@
         "constellation": "Acer Palmatum",
         "birthday": "10/29",
         "gender": "Male",
-        "nation": "Inazuma"
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Mark Whitten",
+            "jp": "Shimazaki Nobunaga (岛崎信长)"
+        }
     }
 ]
