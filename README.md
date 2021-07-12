@@ -1,1 +1,0 @@
-# genshin-impact-character-db-2.0
