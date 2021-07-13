@@ -393,7 +393,7 @@
             },
             "skill": {
                 "name": "Searing Onslaught",
-                "description": "Performs a forward slash that deals <b class=\"text-pyro\">Pyro DMG</b>.<br /><br />This skill can be used 3 times consecutively. Enters CD if not cast again within a short period."
+                "description": "Performs a forward slash that deals <b class=\"text-pyro\">Pyro DMG</b>.<br />This skill can be consecutively used 3 times. Enters CD if not cast again within a short period."
             },
             "burst": {
                 "name": "Dawn",
@@ -405,7 +405,7 @@
             },
             "a4passive": {
                 "name": "Blessing of Phoenix",
-                "description": "The <b class=\"text-pyro\">Pyro Enchantment</b> provided by <b class=\"text-highlight\">Dawn</b> lasts for 4s longer. Additionally. Diluc gains 20% <b class=\"text-pyro\">Pyro DMG Bonus</b> during the duration of this effect."
+                "description": "The <b class=\"text-pyro\">Pyro Infusion</b> provided by <b class=\"text-highlight\">Dawn</b> lasts for 4s longer. Additionally. Diluc gains 20% <b class=\"text-pyro\">Pyro DMG Bonus</b> during the duration of this effect."
             },
             "utilpassive": {
                 "name": "Tradition of the Dawn Knight",
@@ -469,7 +469,7 @@
             },
             "skill": {
                 "name": "Nightrider",
-                "description": "Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing <b class=\"text-electro\">Electro DMG</b> in a small AoE.<br />For the ability's duration, Oz will continuously attack nearby opponents with <b class=\"text-highlight\">Freikugel</b>.<br /><br />Hold to adjust the location Oz will be summoned to.<br />Press again any time during the ability's duration to once again summon him to Fischl's side."
+                "description": "Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing <b class=\"text-electro\">Electro DMG</b> in a small AoE.<br />For the ability's duration, Oz will continuously attack nearby opponents with <b class=\"text-electro\">Freikugel</b>.<br /><br />Hold to adjust the location Oz will be summoned to.<br />Press again any time during the ability's duration to once again summon him to Fischl's side."
             },
             "burst": {
                 "name": "Midnight Phantasmagoria",
@@ -633,7 +633,7 @@
             },
             "a4passive": {
                 "name": "Glacial Heart",
-                "description": "Opponents <b class=\"text-highlight\">Frozen</b> by <b class=\"text-highlight\">Frostgnaw</b> will drop additional Elemental Particles. Frostgnaw may only produce a maximum of 2 additional Elemental Particles per use."
+                "description": "Opponents <b class=\"text-cryo\">Frozen</b> by <b class=\"text-highlight\">Frostgnaw</b> will drop additional Elemental Particles. Frostgnaw may only produce a maximum of 2 additional Elemental Particles per use."
             },
             "utilpassive": {
                 "name": "Hidden Strength",
