@@ -89,7 +89,7 @@
             },
             "skill": {
                 "name": "Let the Show Begin♪",
-                "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and applying the <b class=\"text-highlight\">Wet</b> status to them.<br /><br /><b class=\"text-highlight\">Melody Loop:</b><ul><li>On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.</li><li>On hit, Barbara's Charged Attack generates 4 times the amount of healing.</li><li>Periodically regenerates your own active character's HP.</li><li>Applies the <b class=\"text-highlight\">Wet</b> status to the character and to opponents who come in contact with them.</li></ul>"
+                "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and applying the <b class=\"text-hydro\">Wet</b> status to them.<br /><br /><b class=\"text-highlight\">Melody Loop:</b><ul><li>On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.</li><li>On hit, Barbara's Charged Attack generates 4 times the amount of healing.</li><li>Periodically regenerates your own active character's HP.</li><li>Applies the class<b class=\"text-hydro\">Wet</b> status to the character and to opponents who come in contact with them.</li></ul>"
             },
             "burst": {
                 "name": "Shining Miracle♪",
@@ -241,7 +241,7 @@
             },
             "skill": {
                 "name": "Passion Overload",
-                "description": "Bennett concentrates the spirit of Adventure and Pyro into his blade. Depending on how long he charges for, different effects occur.<br /><br /><b class=\"text-highlight\">Press:</b> A single, swift flame strike that deals <b class=\"text-pyro\">Pyro DMG</b>.<br /><b class=\"text-highlight\">Hold (Short):</b> Charges up, resulting in different effects when unleashed based on the Charge Level<ul><li>Level 1: Strikes twice, dealing <b class=\"text-pyro\">Pyro DMG</b> and launching opponents.</li><li>Level 2: Unleashes 3 consecutive attacks that deal impressive <b class=\"text-pyro\">Pyro DMG</b>, but the last attack triggers an explosion that launches both Bennett and the enemy.<br />Bennett takes no damage from being launched.</li></ul>"
+                "description": "Bennett concentrates the spirit of Adventure and Pyro into his blade. Depending on how long he charges for, different effects occur.<br /><br /><b class=\"text-highlight\">Press:</b> A single, swift flame strike that deals <b class=\"text-pyro\">Pyro DMG</b>.<br /><br /><b class=\"text-highlight\">Hold (Short):</b> Charges up, resulting in different effects when unleashed based on the Charge Level<ul><li>Level 1: Strikes twice, dealing <b class=\"text-pyro\">Pyro DMG</b> and launching opponents.</li><li>Level 2: Unleashes 3 consecutive attacks that deal impressive <b class=\"text-pyro\">Pyro DMG</b>, but the last attack triggers an explosion that launches both Bennett and the enemy.<br />Bennett takes no damage from being launched.</li></ul>"
             },
             "burst": {
                 "name": "Fantastic Voyage",
@@ -845,7 +845,7 @@
         "talents": {
             "attack": {
                 "name": "Lightning Touch",
-                "description": "<b class=\"text-highlight\">Normal Attack:</b> Perform up to 4 lightning attacks that deal Electro DMG.<br /><br /><b class=\"text-highlight\">Charged Attack:</b> Consumes a certain amount of Stamina to deal <b class=\"text-electro\">AoE Electro DMG</b> after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack:</b> Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground."
+                "description": "<b class=\"text-highlight\">Normal Attack:</b> Perform up to 4 lightning attacks that deal <b class=\"text-electro\">Electro DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack:</b> Consumes a certain amount of Stamina to deal <b class=\"text-electro\">AoE Electro DMG</b> after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack:</b> Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals <b class=\"text-electro\">AoE Electro DMG</b> upon impact with the ground."
             },
             "skill": {
                 "name": "Violet Arc",
@@ -929,7 +929,7 @@
             },
             "burst": {
                 "name": "Stellaris Phantasm",
-                "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to the opponents in a large AoE.<br /><br /><b class=\"text-highlight\">Illusory Bubble:</b> Traps opponents inside a pocket of destiny and also makes them <b class=\"text-highlight\">Wet</b>. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, it has the following effects:<ul><li>Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.</li><li>Removes the Illusory Bubble, dealing <b class=\"text-hydro\">Hydro DMG</b> in the process.</li></ul><b class=\"text-highlight\">Omen:</b> During its duration, increases DMG taken by opponents."
+                "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to the opponents in a large AoE.<br /><br /><b class=\"text-highlight\">Illusory Bubble:</b> Traps opponents inside a pocket of destiny and also makes them class<b class=\"text-hydro\">Wet</b>. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, it has the following effects:<ul><li>Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.</li><li>Removes the Illusory Bubble, dealing <b class=\"text-hydro\">Hydro DMG</b> in the process.</li></ul><b class=\"text-highlight\">Omen:</b> During its duration, increases DMG taken by opponents."
             },
             "a1passive": {
                 "name": "Come 'n' Get Me, Hag!",
@@ -945,7 +945,7 @@
             },
             "altsprint": {
                 "name": "Illusory Torrent",
-                "description": "Mona cloaks herself within the water's flow, consuming stamina to move rapidly.<br /><br />When under the effect of Illusory Torrent, Mona can move at high speed on water.<br />Applies the <b class=\"text-highlight\">Wet</b> status to nearby opponents when she reappears."
+                "description": "Mona cloaks herself within the water's flow, consuming stamina to move rapidly.<br /><br />When under the effect of Illusory Torrent, Mona can move at high speed on water.<br />Applies the class<b class=\"text-hydro\">Wet</b> status to nearby opponents when she reappears."
             }
         },
         "constellation": {
@@ -1492,11 +1492,11 @@
             },
             "c3": {
                 "name": "Deepfry",
-                "description": "Increases the Level of <b class=\"text-pyro\">Pyronado</b> by 3.<br />Maximum upgrade level is 15."
+                "description": "Increases the Level of <b class=\"text-highlight\">Pyronado</b> by 3.<br />Maximum upgrade level is 15."
             },
             "c4": {
                 "name": "Slowbake",
-                "description": "<b class=\"text-pyro\">Pyronado</b>'s duration is increased by 40%."
+                "description": "<b class=\"text-highlight\">Pyronado</b>'s duration is increased by 40%."
             },
             "c5": {
                 "name": "Guoba Mad",
@@ -1504,7 +1504,7 @@
             },
             "c6": {
                 "name": "Condensed Pyronado",
-                "description": "For the duration of <b class=\"text-pyro\">Pyronado</b>, all party members receive a 15% <b class=\"text-pyro\">Pyro DMG Bonus</b>"
+                "description": "For the duration of <b class=\"text-highlight\">Pyronado</b>, all party members receive a 15% <b class=\"text-pyro\">Pyro DMG Bonus</b>"
             }
         },
         "materials": {
@@ -1537,7 +1537,7 @@
             },
             "skill": {
                 "name": "Guhua Sword: Fatal Rainscreen",
-                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br /><br />The Rain Swords have the following properties:<ul><li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li><li>20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords. The maximum amount of additional DMG Reduction that can be gained this way is 24%.</li></ul>The initial maximum number of Rain Swords is 3.<br />Using this ability applies the <b class=\"text-highlight\">Wet</b> status onto the character."
+                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br /><br />The Rain Swords have the following properties:<ul><li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li><li>20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords. The maximum amount of additional DMG Reduction that can be gained this way is 24%.</li></ul>The initial maximum number of Rain Swords is 3.<br />Using this ability applies the class<b class=\"text-hydro\">Wet</b> status onto the character."
             },
             "burst": {
                 "name": "Guhua Sword: Raincutter",
@@ -1777,7 +1777,7 @@
             },
             "a4passive": {
                 "name": "Dominance of Earth",
-                "description": "Zhongli deals bonus DMG based on his Max HP:<ul><li>Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.</li><li><b class=\"text-highlight\">Dominus Lapidis'</b> Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.</li><li><b class=\"text-highlight\">Planet Befall</b> deals additional DMG equal to 33% of Zhongli's Max HP.</li></ul>"
+                "description": "Zhongli deals bonus DMG based on his Max HP:<ul><li>Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.</li><li><b class=\"text-highlight\">Dominus Lapidis'</b> Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.</li><li><b class=\"text-highlight\">Planet Befall's</b> DMG is increased by 33% of Zhongli's Max HP.</li></ul>"
             },
             "utilpassive": {
                 "name": "Arcanum of Crystal",
