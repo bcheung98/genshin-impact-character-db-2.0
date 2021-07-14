@@ -89,7 +89,7 @@
             },
             "skill": {
                 "name": "Let the Show Begin♪",
-                "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and applying the <b class=\"text-hydro\">Wet</b> status to them.<br /><br /><b class=\"text-highlight\">Melody Loop:</b><ul><li>On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.</li><li>On hit, Barbara's Charged Attack generates 4 times the amount of healing.</li><li>Periodically regenerates your own active character's HP.</li><li>Applies the class<b class=\"text-hydro\">Wet</b> status to the character and to opponents who come in contact with them.</li></ul>"
+                "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and applying the <b class=\"text-hydro\">Wet</b> status to them.<br /><br /><b class=\"text-highlight\">Melody Loop:</b><ul><li>On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.</li><li>On hit, Barbara's Charged Attack generates 4 times the amount of healing.</li><li>Periodically regenerates your own active character's HP.</li><li>Applies the <b class=\"text-hydro\">Wet</b> status to the character and to opponents who come in contact with them.</li></ul>"
             },
             "burst": {
                 "name": "Shining Miracle♪",
@@ -929,7 +929,7 @@
             },
             "burst": {
                 "name": "Stellaris Phantasm",
-                "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to the opponents in a large AoE.<br /><br /><b class=\"text-highlight\">Illusory Bubble:</b> Traps opponents inside a pocket of destiny and also makes them class<b class=\"text-hydro\">Wet</b>. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, it has the following effects:<ul><li>Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.</li><li>Removes the Illusory Bubble, dealing <b class=\"text-hydro\">Hydro DMG</b> in the process.</li></ul><b class=\"text-highlight\">Omen:</b> During its duration, increases DMG taken by opponents."
+                "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to the opponents in a large AoE.<br /><br /><b class=\"text-highlight\">Illusory Bubble:</b> Traps opponents inside a pocket of destiny and also makes them <b class=\"text-hydro\">Wet</b>. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, it has the following effects:<ul><li>Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.</li><li>Removes the Illusory Bubble, dealing <b class=\"text-hydro\">Hydro DMG</b> in the process.</li></ul><b class=\"text-highlight\">Omen:</b> During its duration, increases DMG taken by opponents."
             },
             "a1passive": {
                 "name": "Come 'n' Get Me, Hag!",
@@ -1537,7 +1537,7 @@
             },
             "skill": {
                 "name": "Guhua Sword: Fatal Rainscreen",
-                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br /><br />The Rain Swords have the following properties:<ul><li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li><li>20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords. The maximum amount of additional DMG Reduction that can be gained this way is 24%.</li></ul>The initial maximum number of Rain Swords is 3.<br />Using this ability applies the class<b class=\"text-hydro\">Wet</b> status onto the character."
+                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br /><br />The Rain Swords have the following properties:<ul><li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li><li>20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords. The maximum amount of additional DMG Reduction that can be gained this way is 24%.</li></ul>The initial maximum number of Rain Swords is 3.<br />Using this ability applies the <b class=\"text-hydro\">Wet</b> status onto the character."
             },
             "burst": {
                 "name": "Guhua Sword: Raincutter",
