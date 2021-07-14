@@ -945,7 +945,7 @@
             },
             "altsprint": {
                 "name": "Illusory Torrent",
-                "description": "Mona cloaks herself within the water's flow, consuming stamina to move rapidly.<br /><br />When under the effect of Illusory Torrent, Mona can move at high speed on water.<br />Applies the class<b class=\"text-hydro\">Wet</b> status to nearby opponents when she reappears."
+                "description": "Mona cloaks herself within the water's flow, consuming stamina to move rapidly.<br /><br />When under the effect of Illusory Torrent, Mona can move at high speed on water.<br />Applies the <b class=\"text-hydro\">Wet</b> status to nearby opponents when she reappears."
             }
         },
         "constellation": {
