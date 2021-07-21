@@ -2531,7 +2531,7 @@
             },
             "burst": {
                 "name": "Kamisato Art: Soumetsu",
-                "description": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki No To that moves forward continuously.<br /><br /><b class=\"text-highlight\">Frostflake Seki no To:</b><ul><li>A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing <b class=\"text-cryo\">Cryo DMG</b>.</li><li>The snowstorm explodes after its duration ends, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.</li></ul>"
+                "description": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.<br /><br /><b class=\"text-highlight\">Frostflake Seki no To:</b><ul><li>A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing <b class=\"text-cryo\">Cryo DMG</b>.</li><li>The snowstorm explodes after its duration ends, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.</li></ul>"
             },
             "a1passive": {
                 "name": "Amatsumi Kunitsumi Sanctification",
