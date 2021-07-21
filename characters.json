@@ -2539,7 +2539,7 @@
             },
             "a4passive": {
                 "name": "Kanten Senmyou Blessing",
-                "description": "When the <b class=\"text-cryo\">Cryo</b> application at the end of <b class=\"text-highlight\">Kamisato Art: Senho</b> hits an opponent, Ayaka gains the following effects:<ul><li>Restores 10 Stamina.</li><li>Gains 18% <b class=\"text-cryo\">Cryo DMG Bonus</b> for 10s.</li></ul>"
+                "description": "When the Cryo application at the end of <b class=\"text-highlight\">Kamisato Art: Senho</b> hits an opponent, Ayaka gains the following effects:<ul><li>Restores 10 Stamina.</li><li>Gains 18% <b class=\"text-cryo\">Cryo DMG Bonus</b> for 10s.</li></ul>"
             },
             "utilpassive": {
                 "name": "Fruits of Shinsa",
