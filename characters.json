@@ -2547,7 +2547,7 @@
             },
             "altsprint": {
                 "name": "Kamisato Art: Senho",
-                "description": "Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her.<br />In Senho form, she moves swiftly upon water.<br />When she reappears, the following effects occur:<li>Ayaka unleashes frigid energy to apply <b class=\"text-cryo\">Cryo</b> on nearby opponents.</li><li>Coldness condenses around Ayaka's blade, infusing her attacks with <b class=\"text-cryo\">Cryo</b> for a brief period.</li>"
+                "description": "Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her.<br /><br />In Senho form, she moves swiftly upon water.<br />When she reappears, the following effects occur:<li>Ayaka unleashes frigid energy to apply <b class=\"text-cryo\">Cryo</b> on nearby opponents.</li><li>Coldness condenses around Ayaka's blade, infusing her attacks with <b class=\"text-cryo\">Cryo</b> for a brief period.</li>"
             }
         },
         "constellation": {
