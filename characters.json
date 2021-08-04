@@ -2592,5 +2592,81 @@
             "en": "Erica Mendez",
             "jp": "Saori Hayami (早見 沙織)"
         }
+    },
+    {
+        "id": 34,
+        "name": "Yoimiya",
+        "title": "Frolicking Flames",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Firework Flare-Up",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off a flaming arrow that deals <b class=\"text-pyro\">Pyro DMG</b>.</li><li>Charge Level 2: Generates a maxmimum of 3 Kindling Arrows based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing <b class=\"text-pyro\">Pyro DMG</b> on hit.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Niwabi Fire-Dance",
+                "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.<br /><br /><b class=\"text-highlight\">Niwabi Enshou</b><br />During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to <b class=\"text-pyro\">Pyro DMG</b>. during this time, Normal Attack: <b class=\"text-highlight\">Firework Flare-Up</b> will not generate Kindling Arrows at Charge Level 2.<br />This effect will deactivate when Yoimiya leaves the field."
+            },
+            "burst": {
+                "name": "Ryuukin Saxifrage",
+                "description": "Yoimiya leaps into the air along with her original creation, the \"Ryuukin Saxifrage\", and fires forth blazing rockets bursting with surprises that deal <b class=\"text-pyro\">AoE Pyro DMG</b> and mark one of the hit opponents with Aurous Blaze.<br /><br /><b class=\"text-highlight\">Aurous Blaze</b><br />All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by Aurous Blaze will trigger an explosion, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br />When an opponent affected by Aurous Blaze is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.<br />One Aurous Blaze explosion can be triggered every 2s. When Yoimiya is down, Aurous Blaze effects created through her skills will be deactivated."
+            },
+            "a1passive": {
+                "name": "Tricks of the Trouble-Maker",
+                "description": "During <b class=\"text-highlight\">Niwabi Fire-Dance</b>, shots from Yoimiya's Normal Attack will increase her Pyro DMG Bonus by 2% on hit. This effect lasts for 3s and can have a maximum of 10 stacks."
+            },
+            "a4passive": {
+                "name": "Summer Night's Dawn",
+                "description": "Using <b class=\"text-highlight\">Ryuukin Saxifrage</b> causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of <b class=\"text-highlight\">Tricks of the Trouble-Maker</b> stacks Yoimiya possesses when using <b class=\"text-highlight\">Ryuukin Saxifrage</b>. Each stack increases this ATK Bonus by 1%."
+            },
+            "utilpassive": {
+                "name": "Blazing Match",
+                "description": "When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used."
+            }
+        },
+        "constellation": {
+            "name": "Carassius Auratus",
+            "c1": {
+                "name": "Agate Ryuukin",
+                "description": "The Auros Blaze created by <b class=\"text-highlight\">Ryuukin Saxifrage</b> lasts for an extra 4s.<br /><br />Additionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s."
+            },
+            "c2": {
+                "name": "A Procession of Bonfires",
+                "description": "When Yoimiya's <b class=\"text-pyro\">Pyro DMG</b> scores a CRIT Hit, Yoimiya will gain a 25% <b class=\"text-pyro\">Pyro DMG Bonus</b> for 6s.<br /><br />This effect can be triggered even when Yoimiya is not the active character."
+            },
+            "c3": {
+                "name": "Trickster's Flare",
+                "description": "Increases the Level of <b class=\"text-highlight\">Niwabi Fire-Dance</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Pyrotechnic Professional",
+                "description": "When Yoimiya's own Aurous Blaze triggers an explosion, <b class=\"text-highlight\">Niwabi Fire-Dance</b>'s CD is decreased by 1.2."
+            },
+            "c5": {
+                "name": "A Summer Festival's Eve",
+                "description": "Increases the Level of <b class=\"text-highlight\">Ryuukin Saxifrage</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Naganohara Meteor Swarm",
+                "description": "During <b class=\"text-highlight\">Niwabi Fire-Dance</b>, Yoimiya's Normal Attacks have a 50% chance of firing an extra Kindling Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG."
+            }
+        },
+        "materials": {
+            "talentBook": "Transience",
+            "ascensionMat": "Smoldering Pearl",
+            "localMat": "Naku Weed",
+            "commonMat": "Scroll",
+            "bossMat": "Dragon Lord's Crown"
+        },
+        "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival\", she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+        "birthday": "June 21",
+        "gender": "Female",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Jenny Yokobori",
+            "jp": "Kana Ueda (植田佳奈)"
+        }
     }
 ]
