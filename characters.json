@@ -2668,5 +2668,81 @@
             "en": "Jenny Yokobori",
             "jp": "Kana Ueda (植田佳奈)"
         }
+    },
+    {
+        "id": 35,
+        "name": "Sayu",
+        "title": "Mujina Ninja",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "talents": {
+            "attack": {
+                "name": "Shuumatsuban Ninja Blade",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Drains Stamina over time to perform continuous spinning attacks on all nearby opponents.<br />At the end of the sequence, perform a more powerful slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Yoohoo Art: Fuuin Dash",
+                "description": "Sayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing <b class=\"text-anemo\">Anemo DMG</b>. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing <b class=\"text-anemo\">AoE Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Press</b><br />Enters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.<br /><br /><b class=\"text-highlight\">Hold</b><br />Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.<br />During this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.<br />The Hold version of this skill can trigger Elemental Absorption.<br />This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.<br /><br /><b class=\"text-highlight\">Elemental Absorption</b><br />If Sayu comes into contact with <b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-cryo\">Cryo</b>/<b class=\"text-electro\">Electro</b> elements, it will deal additional elemental DMG of that type.<br />Elemental Absorption may only occur once per use of this skill."
+            },
+            "burst": {
+                "name": "Yoohoo Art: Mujina Flurry",
+                "description": "The other super special technique of the Yoohoo Ninja Arts! It summons a a pair of helping hands for Sayu.<br />Deals <b class=\"text-anemo\">Anemo DMG</b> to nearby opponents and heals all nearby party members. THe amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.<br /><br /><b>Muji-Muji Daruma</b><br />At specific intervals, the Daruma will take one of several actions based on the situation around it:<li>If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing <b>Anemo DMG</b>.</li><li>If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.</li>"
+            },
+            "a1passive": {
+                "name": "Someone More Capable",
+                "description": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemantal Mastery she has.<br />This effect can be triggered once every 2s."
+            },
+            "a4passive": {
+                "name": "No Work Today!",
+                "description": "The Muji-Muji Daruma created by <b class=\"text-highlight\">Yoohoo Art: Mujina Flurry</b> gains the following effects:<ul><li>When healing a character, it will also characters near that healed character for 20% the amount of HP.</li><li>Increases the AoE of its attack against opponents</li></ul>"
+            },
+            "utilpassive": {
+                "name": "Yoohoo Art: Silencer's Secret",
+                "description": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting hear them."
+            }
+        },
+        "constellation": {
+            "name": "Nyctereutes Minor",
+            "c1": {
+                "name": "Multi-Task no Jutsu",
+                "description": "The Muji-Muji Daruma created by <b class=\"text-highlight\">Yoohoo Art: Mujina Flurry</b> will ignore HP limits and can simultaneously attack nearby opponents and heal characters."
+            },
+            "c2": {
+                "name": "Egress Prep",
+                "description": "<b class=\"text-highlight\">Yoohoo Art: Fuuin Dash</b> gains the following effects:<li>DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%</li><li>Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 65%.</li>"
+            },
+            "c3": {
+                "name": "Eh, the Bunshin Can Handle It",
+                "description": "Increases the Level of <b class=\"text-highlight\">Yoohoo Art: Mujina Flurry</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Skiving: New and Improved",
+                "description": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.<br />This effect occurs once every 2s."
+            },
+            "c5": {
+                "name": "Speed Comes First",
+                "description": "Increases the Level of <b class=\"text-highlight\">Yoohoo Art: Fuuin Dash</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Sleep O'Clock",
+                "description": "The Muji-Muji Daruma created by <b class=\"text-highlight\">Yoohoo Art: Mujina Flurry</b> will now also benefit from her Elemental Mastery. Each point of Say's Elemental Mastery will produce the following effects:<li>Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.</li><li>Increases the HP restored by the Muji-Muji Durama by 3. A maximum of 6,000 additional HP can be restored in this manner.</li>"
+            }
+        },
+        "materials": {
+            "talentBook": "Light",
+            "ascensionMat": "Marionette Core",
+            "localMat": "Crystal Marrow",
+            "commonMat": "Nectar",
+            "bossMat": "Gilded Scale"
+        },
+        "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived",
+        "birthday": "October 19",
+        "gender": "Female",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Lilypichu (Lily Ki)",
+            "jp": "Aya Suzaki (洲崎綾)"
+        }
     }
 ]
