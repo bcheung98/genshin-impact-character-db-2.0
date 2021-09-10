@@ -270,7 +270,7 @@
             },
             "a1passive": {
                 "name": "Rekindle",
-                "description": "Decreases <b class=\"text-highlight\">Passion Overload<b/>'s CD by 20%."
+                "description": "Decreases <b class=\"text-highlight\">Passion Overload</b>'s CD by 20%."
             },
             "a4passive": {
                 "name": "Fearnaught",
