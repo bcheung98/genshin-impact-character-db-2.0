@@ -3102,7 +3102,7 @@
             },
             "c2": {
                 "name": "Steelbreaker",
-                "description": "<b class=\"text-highlight\">Secret Art: Musou Shinsetsu</b>'s Musou no Hitotachi and Musou Isshin attacks will ignore 60% of opponents' DEF."
+                "description": "While using Musou no Hitotachi and in the <b class=\"text-highlight\">Musou Isshin</b> state applied by <b class=\"text-highlight\">Secret Art: Musou Shinsetsu</b>, the Raiden Shogun's attacks ignore 60% of opponents' DEF."
             },
             "c3": {
                 "name": "Shinkage Bygones",
@@ -3118,7 +3118,7 @@
             },
             "c6": {
                 "name": "Wishbearer",
-                "description": "While in the <b class=\"text-highlight\">Musou Isshin</b> state applied by <b class=\"text-highlight\">Secret Art: Musou Shinsetsu</b>, the Raiden Shogun's Normal, Charged, and Plunging Attacks will decrease all nearby party members' (but not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.<br />This effect can trigger once every 1s, and can trigger a total of 5 times during the state's duration."
+                "description": "While in the <b class=\"text-highlight\">Musou Isshin</b> state applied by <b class=\"text-highlight\">Secret Art: Musou Shinsetsu</b>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (but not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.<br />This effect can trigger once every 1s, and can trigger a total of 5 times during the state's duration."
             }
         },
         "stats": {
