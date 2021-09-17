@@ -3177,7 +3177,7 @@
             },
             "utilpassive": {
                 "name": "Land Survey",
-                "description": "When dispatched on an expidition in Inazuma, time consumed is reduced by 25%."
+                "description": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%."
             }
         },
         "constellation": {
