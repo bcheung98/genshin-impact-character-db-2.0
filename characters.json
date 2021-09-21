@@ -3231,5 +3231,95 @@
             "en": "Jeannie Tirado",
             "jp": "Asami Seto (瀬戸 麻沙美)"
         }
+    },
+    {
+        "id": 38,
+        "name": "Kokomi",
+        "fullname": "Sangonomiya Kokomi",
+        "title": "Pearl of Wisdom",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "The Shape of Water",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 consecutive attacks that take the form of swimming fish, dealing <b class=\"text-hydro\">Hydro DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to deal <b class=\"text-hydro\">AoE Hydro DMG</b> after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals <b class=\"text-hydro\">AoE Hydro DMG</b> upon impact with the ground."
+            },
+            "skill": {
+                "name": "Kurage's Oath",
+                "description": "Summons a \"bake-kurage\" created from water that can heal her allies.<br />Using this skill will apply the <b class=\"text-hydro\">Wet</b> status to Kokomi.<br /><br /><b class=\"text-highlight\">Bake-Kurage</b><br />Deals <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP."
+            },
+            "burst": {
+                "name": "Nereid's Ascension",
+                "description": "The might of Watatsumi descends, dealing <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.<br /><br /><b class=\"text-highlight\">Ceremonial Garment</b><br /><li>Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.</li><li>When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.</li><li>Increases Kokomi's resistance to interruption and allows her to move on the water's surface.</li><br />These effects will be cleared once Kokomi leaves the field."
+            },
+            "a1passive": {
+                "name": "Tamanooya's Casket",
+                "description": "If Kokomi's own Bake-Kurage are on the field when she uses <b class=\"text-highlight\">Nereid's Ascension</b>, the Bake-Kurage's duration will be refreshed."
+            },
+            "a4passive": {
+                "name": "Song of Pearls",
+                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, the Normal and Charged Attack DMG Bonus Kokomi gains based on her Max HP will recieve a further increase based on 15% of her Healing Bonus."
+            },
+            "utilpassive": {
+                "name": "Princess of Watatsumi",
+                "description": "Decreases swimming Stamina consumption of your characters in the party by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            },
+            "passive": {
+                "name": "Flawless Strategy",
+                "description": "Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate."
+            }
+        },
+        "constellation": {
+            "name": "Dracaena Somnolenta",
+            "c1": {
+                "name": "At Water's Edge",
+                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, the final Normal Attack in Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as <b class=\"text-hydro\">Hydro DMG</b>.<br />This DMG is not considered Normal Attack DMG."
+            },
+            "c2": {
+                "name": "The Clouds Like Waves Rippling",
+                "description": "Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:<li><b class=\"text-highlight\">Kurage's Oath</b>'s Bake-Kurage: 4.5% of Kokomi's Max HP.</li><li><b class=\"text-highlight\">Nereid's Ascension</b> Normal and Charged Attacks: 0.6% of Kokomi's Max HP.</li>"
+            },
+            "c3": {
+                "name": "The Moon, A Ship O'er the Seas",
+                "description": "Increases the Level of <b class=\"text-highlight\">Nereid's Ascension</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "The Moon Overlooks the Waters",
+                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.<br />This effect can occur once every 0.2s."
+            },
+            "c5": {
+                "name": "All Streams Flow to the Sea",
+                "description": "Increases the Level of <b class=\"text-highlight\">Kurage's Oath</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Sango Isshin",
+                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, Kokomi gains a 40% <b class=\"text-hydro\">Hydro DMG Bonus</b> for 4s after her Normal and Charged Attacks heal a character with 80% or more HP."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Hydro DMG Bonus",
+            "hp": [1049, 2720, 3619, 5416, 6055, 6966, 7818, 8738, 9377, 10306, 10945, 11885, 12524, 13471],
+            "atk": [18, 47, 63, 94, 105, 121, 136, 152, 163, 179, 190, 207, 218, 234],
+            "def": [51, 133, 177, 264, 295, 340, 381, 426, 457, 503, 534, 580, 611, 657],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Transience",
+            "ascensionMat": "Dew of Repudiation",
+            "localMat": "Sango Pearl",
+            "commonMat": "Specter",
+            "bossMat": "Hellfire Butterfly"
+        },
+        "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+        "birthday": "February 22",
+        "gender": "Female",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Risa Mei",
+            "jp": "Suzuko Mimori (三森すずこ)"
+        }
     }
 ]
