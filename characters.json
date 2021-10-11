@@ -3321,5 +3321,91 @@
             "en": "Risa Mei",
             "jp": "Suzuko Mimori (三森すずこ)"
         }
+    },
+    {
+        "id": 39,
+        "name": "Aloy",
+        "fullname": "",
+        "title": "Savior From Another World",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Rapid Fire",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact."
+            },
+            "skill": {
+                "name": "Frozen Wilds",
+                "description": "Aloy throws a Freeze Bomb in the targeted direction that explodes on impact, dealing <b class=\"text-cryo\">Cryo DMG</b>. After it explodes, the Freeze Bomb will split up into many Chillwater Bombletes that explode on contact with opponents or after a short delay, dealing <b class=\"text-cryo\">Cryo DMG</b>.<br />When a Freeze Bomb or Chillwater Bomblet hits an opponent, the opponents's ATK is decreased and Aloy receives 1 Coil stack.<br />Aloy can gain up to 1 Coil stack every 0.1s.<br /><br /><b class=\"text-highlight\">Coil</b><li>Each stack increases Aloy's Normal Attack DMG.</li><li>When Aloy has 4 Coil stacks, all stacks of Coil are cleared. Shen then enters the Rushing Ice state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to <b class=\"text-cryo\">Cryo DMG</b>.</li><br />While in the Rushing Ice state, Aloy cannot obtain new Coil stacks.<br />Coil effects will be cleared 30s after Aloy leaves the field."
+            },
+            "burst": {
+                "name": "Prophecies of Dawn",
+                "description": "Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>."
+            },
+            "a1passive": {
+                "name": "Combat Override",
+                "description": "When Aloy recieves the Coil effect from <b class=\"text-highlight\">Frozen Wilds</b>, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s."
+            },
+            "a4passive": {
+                "name": "Strong Strike",
+                "description": "When Aloy is in the Rushing Ice state conferred by <b class=\"text-highlight\">Frozen Wilds</b>, her <b class=\"text-cryo\">Cryo DMG Bonus</b> increases by 3.5% every 1s. A maximum <b class=\"text-cryo\">Cryo DMG Bonus</b> increase of 35% can be gained in this way."
+            },
+            "utilpassive": {
+                "name": "Easy Does It",
+                "description": "When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them."
+            }
+        },
+        "constellation": {
+            "name": "Nora Fortis",
+            "c1": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            },
+            "c2": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            },
+            "c3": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            },
+            "c4": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            },
+            "c5": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            },
+            "c6": {
+                "name": "Star of Another World",
+                "description": "The time has not yet come for this person's corner of the night sky to light up."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Cryo DMG Bonus",
+            "hp": [848, 2201, 2928, 4382, 4899, 5636, 6325, 7070, 7587, 8339, 8856, 9616, 10133, 10899],
+            "atk": [18, 47, 63, 94, 105, 121, 136, 152, 163, 179, 190, 206, 217, 234],
+            "def": [53, 137, 182, 272, 304, 350, 393, 439, 471, 517, 550, 597, 629, 676],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Freedom",
+            "ascensionMat": "Crystalline Bloom",
+            "localMat": "Crystal Marrow",
+            "commonMat": "Specter",
+            "bossMat": "Molten Moment"
+        },
+        "description": "Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.",
+        "birthday": "April 4",
+        "gender": "Female",
+        "nation": "",
+        "voiceActors": {
+            "en": "——",
+            "jp": "Ayahi Takagaki (高垣 彩陽)"
+        }
     }
 ]
