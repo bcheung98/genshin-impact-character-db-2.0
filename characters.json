@@ -3157,7 +3157,7 @@
         "talents": {
             "attack": {
                 "name": "Tengu Bowmanship",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, crackling lightning will accumulate arrowhead. An arrow fully charged with the storm's might will deal <b class=\"text-electro\">Electro DMG</b>.<br />When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal <b class=\"text-electro\">Electro DMG</b>.<br />When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
             },
             "skill": {
                 "name": "Tengu Stormcall",
