@@ -3407,5 +3407,91 @@
             "en": "——",
             "jp": "Ayahi Takagaki (高垣 彩陽)"
         }
+    },
+    {
+        "id": 40,
+        "name": "Thoma",
+        "fullname": "",
+        "title": "Protector From Afar",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Swiftshatter Spear",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Blazing Blessing",
+                "description": "Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals <b class=\"text-pyro\">AoE Pyro DMG</b>, while also summoning a defensive Blazing Barrier.<br />At the moment it is unleashed, Thoma's Elemental Skill applies <b class=\"text-pyro\">Pyro</b> to himself.<br />The DMG Absorption of the Barrier is based on Thoma's Max HP.<br />The Blazing Barrier has the following traits:<li>Absorbs <b class=\"text-pyro\">Pyro DMG</b> 250% more effectively.</li><li>When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.</li><br />The maximum DMG Absorption of the Barrier will not exceed a certain percentage of Thoma's Max HP."
+            },
+            "burst": {
+                "name": "Crimson Ooyoroi",
+                "description": "Thoma spins his polearm, slicing at his foes with roaring flames that deal <b class=\"text-pyro\">AoE Pyro DMG</b> and weave themselves into a Scorching Ooyoroi.<br /><br /><b class=\"text-highlight\">Scorching Ooyoroi</b><br />While Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing <b class=\"text-pyro\">AoE Pyro DMG</b> and summon a Blazing Barrier.<br />Fiery Collapse can be triggered once every 1s.<br />Except for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:<li>Absorbs <b class=\"text-pyro\">Pyro DMG</b> 250% more effectively.</li><li>The remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed if another Blazing Barrier is obtained during this time.</li><br />The maximum DMG Absorption of the Barrier will not exceed a certain percentage of Thoma's Max HP.<br /><br />If Thoma falls, the effects of Scorching Ooyoroi will be cleared."
+            },
+            "a1passive": {
+                "name": "Imbricated Armor",
+                "description": "When your current active character obtains or refreshes a <b class=\"text-highlight\">Blazing Barrier</b>, this character's shield strength will increase by 5% for 6s.<br />This effect can be triggered once every 0.3s. Max 5 stacks."
+            },
+            "a4passive": {
+                "name": "Flaming Assault",
+                "description": "DMG dealt by <b class=\"text-highlight\">Crimson Ooyoroi</b>'s Fiery Collapses are increased by 2.2% of Thoma's Max HP."
+            },
+            "utilpassive": {
+                "name": "Snap and Swing",
+                "description": "When you <b class=\"text-highlight\">fish</b> successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
+            }
+        },
+        "constellation": {
+            "name": "Rubeum Scutum",
+            "c1": {
+                "name": "A Comrade's Duty",
+                "description": "When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own <b class=\"text-highlight\">Blazing Blessing</b> CD is decreased by 3s, while his own <b class=\"text-highlight\">Crimson Ooyoroi</b>'s CD is decreased by 3s.<br />This effect can be triggered once every 20s."
+            },
+            "c2": {
+                "name": "A Subordinate's Skills",
+                "description": "<b class=\"text-highlight\">Crimson Ooyoroi</b>'s duration is increased by 3s."
+            },
+            "c3": {
+                "name": "Fortified Resolve",
+                "description": "Increases the Level of <b class=\"text-highlight\">Blazing Blessing</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Long-Term Planning",
+                "description": "After using <b class=\"text-highlight\">Crimson Ooyoroi</b>, 15 Energy will be restored to Thoma."
+            },
+            "c5": {
+                "name": "Raging Wildfire",
+                "description": "Increases the Level of <b class=\"text-highlight\">Crimson Ooyoroi</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Burning Heart",
+                "description": "When a <b class=\"text-highlight\">Blazing Barrier</b> is obtained or stacked, the DMG dealt by the Normal, Charged, and Plunging Attacks of all party members is increased by 15% for 6s."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK%",
+            "hp": [866, 2225, 2872, 4302, 4762, 5478, 6091, 6806, 7266, 7981, 8440, 9156, 9616, 10331],
+            "atk": [17, 43, 56, 84, 93, 107, 119, 133, 142, 156, 165, 179, 188, 202],
+            "def": [63, 162, 209, 313, 346, 398, 443, 495, 528, 580, 613, 665, 699, 751],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+        },
+        "materials": {
+            "talentBook": "Transience",
+            "ascensionMat": "Smoldering Pearl",
+            "localMat": "Fluorescent Fungus",
+            "commonMat": "Treasure Hoarder Insignia",
+            "bossMat": "Hellfire Butterfly"
+        },
+        "description": "The Kamisato Clan's housekeeper. A well known \"fixer\" in Inazuma.",
+        "birthday": "January 9",
+        "gender": "Male",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Christian Banas",
+            "jp": "Masakazu Morita (森田 成一)"
+        }
     }
 ]
