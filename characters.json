@@ -438,7 +438,7 @@
             },
             "skill": {
                 "name": "Searing Onslaught",
-                "description": "Performs a forward slash that deals <b class=\"text-pyro\">Pyro DMG</b>.<br />This skill can be consecutively used 3 times. Enters CD if not cast again within a short period."
+                "description": "Performs a forward slash that deals <b class=\"text-pyro\">Pyro DMG</b>.<br /><br />This skill can be consecutively used 3 times. Enters CD if not cast again within a short period."
             },
             "burst": {
                 "name": "Dawn",
@@ -2884,7 +2884,7 @@
             "bossMat": "Bloodjade Branch"
         },
         "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
-        "birthday": "September 28",
+        "birthday": "September 28th",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -2968,7 +2968,7 @@
             "bossMat": "Dragon Lord's Crown"
         },
         "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival\", she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
-        "birthday": "June 21",
+        "birthday": "June 21st",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -3053,7 +3053,7 @@
             "bossMat": "Gilded Scale"
         },
         "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived",
-        "birthday": "October 19",
+        "birthday": "October 19th",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -3138,7 +3138,7 @@
             "bossMat": "Molten Moment"
         },
         "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
-        "birthday": "June 26",
+        "birthday": "June 26th",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -3204,7 +3204,7 @@
             },
             "c6": {
                 "name": "Sin of Pride",
-                "description": "The <b class=\"text-electro\">Electro DMG</b> of characters of who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%."
+                "description": "The <b class=\"text-electro\">Electro DMG</b> of characters of who have had their ATK increased by Tengu Juurai has its CRIT DMG increased by 60%."
             }
         },
         "stats": {
@@ -3224,7 +3224,7 @@
             "bossMat": "Ashen Heart"
         },
         "description": "A general of the Tenryou Commission. Audacious, decisive, and skilled in battle.",
-        "birthday": "July 14",
+        "birthday": "July 14th",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -3314,7 +3314,7 @@
             "bossMat": "Hellfire Butterfly"
         },
         "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
-        "birthday": "February 22",
+        "birthday": "February 22nd",
         "gender": "Female",
         "nation": "Inazuma",
         "voiceActors": {
@@ -3400,7 +3400,7 @@
             "bossMat": "Molten Moment"
         },
         "description": "Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.",
-        "birthday": "April 4",
+        "birthday": "April 4th",
         "gender": "Female",
         "nation": "",
         "voiceActors": {
@@ -3486,7 +3486,7 @@
             "bossMat": "Hellfire Butterfly"
         },
         "description": "The Kamisato Clan's housekeeper. A well known \"fixer\" in Inazuma.",
-        "birthday": "January 9",
+        "birthday": "January 9th",
         "gender": "Male",
         "nation": "Inazuma",
         "voiceActors": {
