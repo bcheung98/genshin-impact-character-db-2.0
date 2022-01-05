@@ -3664,5 +3664,177 @@
             "en": "Cory Yee",
             "jp": "Tasuku Hatanaka (畠中 祐)"
         }
+    },
+    {
+        "id": 43,
+        "name": "Shenhe",
+        "fullname": "",
+        "title": "Lonesome Transcendence",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Dawnstar Piercer",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Spring Spirit Summoning",
+                "description": "Grants all nearby party members the Icy Quill effect and deals <b class=\"text-cryo\">Cryo DMG</b> in different ways based on whether it is pressed or held.<br /><br /><b class=\"text-highlight\">Press</b><br />Rushes forward together with a Talisman Spirit, dealing <b class=\"text-cryo\">Cryo DMG</b> to opponents along the path.<br /><br /><b class=\"text-highlight\">Hold</b><br />Commands the Talisman Spirit to deal <b class=\"text-cryo\">AoE Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Icy Quill</b><br />When Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal <b class=\"text-cryo\">Cryo DMG</b> to opponents, the DMG dealt is increased based on Shenhe's current ATK.<br />The Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than pressed, the Icy Quill's effect lasts longer and can be triggered more times.<br />When one <b class=\"text-cryo\">Cryo DMG</b> instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with Icy Quill."
+            },
+            "burst": {
+                "name": "Divine Maiden's Deliverance",
+                "description": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.<br />The Talisman Spirit then creates a field that decreases the <b class=\"text-cryo\">Cryo RES</b> and Physical RES of opponents within it. It also deals periodic <b class=\"text-cryo\">Cryo DMG</b> to opponents within the field."
+            },
+            "a1passive": {
+                "name": "Deific Embrace",
+                "description": "An active character within the field created by <b class=\"text-highlight\">Divine Maiden's Deliverance</b> gains 15% <b class=\"text-cryo\">Cryo DMG Bonus</b>."
+            },
+            "a4passive": {
+                "name": "Spirit Communion Seal",
+                "description": "After Shenhe uses <b class=\"text-highlight\">Spring Spirit Summoning</b>, she will grant all nearby party members the following effects:<li>Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.</li><li>Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.</li>"
+            },
+            "utilpassive": {
+                "name": "Precise Comings and Goings",
+                "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
+            }
+        },
+        "constellation": {
+            "name": "Crista Doloris",
+            "c1": {
+                "name": "Clarity of Heart",
+                "description": "<b class=\"text-highlight\">Spring Spirit Summoning</b> can be used 1 more time."
+            },
+            "c2": {
+                "name": "Centered Spirit",
+                "description": "<b class=\"text-highlight\">Divine Maiden's Deliverance</b> lasts for 6 seconds longer. Active characters within the sklil's field deals 15% increased <b class=\"text-cryo\">Cryo</b> CRIT DMG."
+            },
+            "c3": {
+                "name": "Seclusion",
+                "description": "Increases the Level of <b class=\"text-highlight\">Spring Spirit Summoning</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Insight",
+                "description": "When characters under the effect of Icy Quill applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:<li>When Shenhe uses <b class=\"text-highlight\">Spring Spirit Summoning</b>, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that <b class=\"text-highlight\">Spring Spirit Summoning</b> by 5% for each stack consumed.</li><li>Max 50 stacks. Stacks last for 60s.</li>"
+            },
+            "c5": {
+                "name": "Divine Attainment",
+                "description": "Increases the Level of <b class=\"text-highlight\">Divine Maiden's Deliverance</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Mystical Abandon",
+                "description": "When characters trigger Icy Quill's effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK%",
+            "hp": [1011, 2624, 3491, 5224, 5840, 6719, 7540, 8429, 9045, 9941, 10557, 11463, 12080, 12993],
+            "atk": [24, 61, 82, 122, 137, 157, 176, 197, 211, 232, 247, 268, 282, 304],
+            "def": [65, 168, 223, 334, 373, 429, 482, 538, 578, 635, 674, 732, 772, 830],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Prosperity",
+            "ascensionMat": "Dragonheir's False Fin",
+            "localMat": "Qingxin",
+            "commonMat": "Nectar",
+            "bossMat": "Hellfire Butterfly"
+        },
+        "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+        "birthday": "March 10th",
+        "gender": "Female",
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Chelsea Kwoka",
+            "jp": "Ayako Kawasumi (川澄 綾子)"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Yun Jin",
+        "fullname": "",
+        "title": "Stage Lucida",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Cloud-Grazing Strike",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Opening Flourish",
+                "description": "Ms. Yun may just be acting out fights on stage, but her skills with the spear are real enough to defend against her foes.<br /><br /><b class=\"text-highlight\">Press</b><br />Flourishes her polearm in a cloud-grasping stance, dealing <b class=\"text-geo\">Geo DMG</b>.<br /><br /><b class=\"text-highlight\">Hold</b><br />Takes up the Opening Flourish stance and charges up, forming a shield. DMG absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill.<br />When the skill is released, its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing <b class=\"text-geo\">Geo DMG</b>.<br />Based on the time spent charging, it will either unleash an attack at Charge Level 1 or Level 2."
+            },
+            "burst": {
+                "name": "Cliffbreaker's Banner",
+                "description": "Deals <b class=\"text-geo\">AoE Geo DMG</b> and grants all nearby party members a Flying Cloud Flag Formation.<br /><br /><b class=\"text-highlight\">Flying Cloud Flag Formation</b><br />When Normal Attack DMG is dealt to opponents, Bonus DMG will be dealt based on Yun Jin's current DEF.<br /><br />The effects of this skill will be cleared after a set duration or after being triggered a specific number of times.<br />When one Normal Attack hits multiple opponents, the effect is triggered multiple times according to the number of opponents hit. The number of times that the effect is triggered is counted independently for each member of the party with the Flying Cloud Flag Formation."
+            },
+            "a1passive": {
+                "name": "True to Oneself",
+                "description": "Using <b class=\"text-highlight\">Opening Flourish</b> at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form."
+            },
+            "a4passive": {
+                "name": "Breaking Conventions",
+                "description": "The Normal Attack DMG Bonus granted by <b class=\"text-highlight\">Flying Cloud Flag Formation</b> is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively."
+            },
+            "utilpassive": {
+                "name": "Light Nourishment",
+                "description": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
+            }
+        },
+        "constellation": {
+            "name": "Opera Grandis",
+            "c1": {
+                "name": "Thespian Gallop",
+                "description": "<b class=\"text-highlight\">Opening Flourish</b>'s CD is decreased by 18%."
+            },
+            "c2": {
+                "name": "Myriad Mise-En-Scène",
+                "description": "After <b class=\"text-highlight\">Cliffbreaker's Banner</b> is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s."
+            },
+            "c3": {
+                "name": "Seafaring General",
+                "description": "Increases the Level of <b class=\"text-highlight\">Cliffbreaker's Banner</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Flower and a Fighter",
+                "description": "When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s."
+            },
+            "c5": {
+                "name": "Famed Throughout the Land",
+                "description": "Increases the Level of <b class=\"text-highlight\">Opening Flourish</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Decorous Harmony",
+                "description": "Characters under the effects of the <b class=\"text-highlight\">Flying Cloud Flag Formation</b> have their Normal ATK SPD increased by 12%."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Energy Recharge",
+            "hp": [894, 2296, 2963, 4438, 4913, 5651, 6283, 7021, 7495, 8233, 8707, 9445, 9919, 10657],
+            "atk": [16, 41, 53, 80, 88, 101, 113, 126, 134, 148, 156, 169, 178, 191],
+            "def": [62, 158, 204, 306, 339, 389, 433, 484, 517, 567, 600, 651, 684, 734],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 6.7, 6.7, 13.3, 13.3, 13.3, 13.3, 20, 20, 26.7, 26.7]
+        },
+        "materials": {
+            "talentBook": "Diligence",
+            "ascensionMat": "Riftborn Regalia",
+            "localMat": "Glaze Lily",
+            "commonMat": "Mask",
+            "bossMat": "Ashen Heart"
+        },
+        "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+        "birthday": "May 21st",
+        "gender": "Female",
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Judy Alice Lee & Yang Yang (杨扬)",
+            "jp": "Kotori Koiwai (小岩井 ことり) & Yang Yang (杨扬)"
+        }
     }
 ]
