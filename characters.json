@@ -1843,7 +1843,7 @@
             },
             "c6": {
                 "name": "Havoc: Annihilation",
-                "description": "When <b class=\"text-highlight\">Havoc: Obliteration</b> is cast in Melee Stance, the CD of <b class=\"text-highlight\">Foul Legacy: Raging Tide is reset</b>.<br />This effect will only take place once Tartaglia returns to his Ranged Stance."
+                "description": "When <b class=\"text-highlight\">Havoc: Obliteration</b> is cast in Melee Stance, the CD of <b class=\"text-highlight\">Foul Legacy: Raging Tide</b> is reset.<br />This effect will only take place once Tartaglia returns to his Ranged Stance."
             }
         },
         "stats": {
