@@ -3131,7 +3131,7 @@
             },
             "skill": {
                 "name": "Niwabi Fire-Dance",
-                "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.<br /><br /><b class=\"text-highlight\">Niwabi Enshou</b><br />During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to <b class=\"text-pyro\">Pyro DMG</b>. during this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2.<br />This effect will deactivate when Yoimiya leaves the field."
+                "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.<br /><br /><b class=\"text-highlight\">Niwabi Enshou</b><br />During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to <b class=\"text-pyro\">Pyro DMG</b>. During this time, Firework Flare-Up will not generate Kindling Arrows at Charge Level 2.<br /><br />This effect will deactivate when Yoimiya leaves the field."
             },
             "burst": {
                 "name": "Ryuukin Saxifrage",
@@ -4015,6 +4015,95 @@
         "release": {
             "date": "January 5, 2022",
             "version": "2.4" 
+        }
+    },
+    {
+        "id": 45,
+        "name": "Miko",
+        "fullname": "Yae Miko",
+        "title": "Astute Amusement",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Spiritfox Sin-Eater",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal <b class=\"text-electro\">Electro DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to deal <b class=\"text-electro\">AoE Electro DMG</b> after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals <b class=\"text-electro\">AoE Electro DMG</b> upon impact with the ground."
+            },
+            "skill": {
+                "name": "Yakan Evocation: Sesshou Sakura",
+                "description": "To Miko, such dull tasks as can be accomplished by driving spirits out need not be done personally.<br/>Moves swiftly, leaving a Sesshou Sakura behind.<br /><br /><b class=\"text-highlight\">Sesshou Sakura</b><br />Has the following properties:<li>Periodically strikes one nearby opponent with lightning, dealing <b class=\"text-electro\">Electro DMG</b>.</li><li>When there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.</li><br />This skill has three charges.<br/>A maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed."
+            },
+            "burst": {
+                "name": "Great Secret Art: Tenko Kenshin",
+                "description": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing <b class=\"text-electro\">AoE Electro DMG</b>.<br />When she uses this skill, Miko will unseal nearby Sesshou Sakura nearby, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing <b class=\"text-electro\">AoE Electro DMG</b>. Each Sesshou Sakura destroyed this way will create one Tenko Thunderbolt."
+            },
+            "a1passive": {
+                "name": "The Shrine's Sacred Shade",
+                "description": "When casting <b class=\"text-highlight\">Great Secret Art: Tenko Kenshin</b>, each Sesshou Sakura destroyed resets the cooldown for 1 charge of <b class=\"text-highlight\">Yakan Evocation: Sesshou Sakura</b>."
+            },
+            "a4passive": {
+                "name": "Enlightend Blessing",
+                "description": "Every point of Elemental Mastery Miko possesses will increase <b class=\"text-highlight\">Sesshou Sakura</b> DMG by 0.15%."
+            },
+            "utilpassive": {
+                "name": "Meditations of a Yako",
+                "description": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material."
+            }
+        },
+        "constellation": {
+            "name": "Divina Vulpes",
+            "c1": {
+                "name": "Yakan Offering",
+                "description": "Each time <b class=\"text-highlight\">Great Secret Art: Tenko Kenshin</b> activates a Sky Kitsune Thunderbolt, Miko will restore 8 Elemental Energy for herself."
+            },
+            "c2": {
+                "name": "Fox's Mooncall",
+                "description": "<b class=\"text-highlight\">Sesshou Sakura</b> start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%."
+            },
+            "c3": {
+                "name": "The Seven Glamours",
+                "description": "Increases the Level of <b class=\"text-highlight\">Yakan Evocation: Sesshou Sakura</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Sakura Channeling",
+                "description": "When <b class=\"text-highlight\">Sesshou Sakura</b> thunderbolts hit opponents, the <b class=\"text-electro\">Electro DMG Bonus</b> of all nearby party members is increased by 20% for 5s."
+            },
+            "c5": {
+                "name": "Mischievous Teasing",
+                "description": "Increases the Level of <b class=\"text-highlight\">Great Secret Art: Tenko Kenshin</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Forbidden Art: Daisesshou",
+                "description": "The <b class=\"text-highlight\">Sesshou Sakura</b>'s attacks will ignore 60% of the opponents' DEF."
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT Rate",
+            "hp": [807, 2095, 2787, 4170, 4662, 5364, 6020, 6729, 7220, 7936, 8428, 9151, 9643, 10372],
+            "atk": [26, 69, 91, 137, 153, 176, 197, 220, 236, 260, 276, 300, 316, 340],
+            "def": [44, 115, 153, 229, 256, 294, 330, 369, 396, 435, 462, 502, 529, 569],
+            "critRate": [5, 5, 5, 5, 9.8, 9.8, 14.6, 14.6, 14.6, 14.6, 19.4, 19.4, 24.2, 24.2],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50]
+        },
+        "materials": {
+            "talentBook": "Light",
+            "ascensionMat": "Dragonheir's False Fin",
+            "localMat": "Sea Ganoderma",
+            "commonMat": "Handguard",
+            "bossMat": "The Meaning of Aeons"
+        },
+        "description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+        "birthday": "June 27",
+        "gender": "Female",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Ratana",
+            "jp": "Ayane Sakura (佐倉綾音)"
+        },
+        "release": {
+            "date": "Feburary 16, 2022",
+            "version": "2.5" 
         }
     }
 ]
