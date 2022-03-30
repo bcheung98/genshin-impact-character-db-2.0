@@ -3489,7 +3489,7 @@
             },
             "skill": {
                 "name": "Kurage's Oath",
-                "description": "Summons a \"bake-kurage\" created from water that can heal her allies.<br />Using this skill will apply the <b class=\"text-hydro\">Wet</b> status to Kokomi.<br /><br /><b class=\"text-highlight\">Bake-Kurage</b><br />Deals <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP."
+                "description": "Summons a \"Bake-Kurage\" created from water that can heal her allies.<br />Using this skill will apply the <b class=\"text-hydro\">Wet</b> status to Kokomi.<br /><br /><b class=\"text-highlight\">Bake-Kurage</b><br />Deals <b class=\"text-hydro\">Hydro DMG</b> to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP."
             },
             "burst": {
                 "name": "Nereid's Ascension",
@@ -3536,7 +3536,7 @@
             },
             "c6": {
                 "name": "Sango Isshin",
-                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, Kokomi gains a 40% <b class=\"text-hydro\">Hydro DMG Bonus</b> for 4s after her Normal and Charged Attacks heal a character with 80% or more HP."
+                "description": "While donning the Ceremonial Garment created by <b class=\"text-highlight\">Nereid's Ascension</b>, Kokomi gains a 40% <b class=\"text-hydro\">Hydro DMG Bonus</b> for 4s after her Normal and Charged Attacks heal, or would heal, any party member with 80% or more HP."
             }
         },
         "stats": {
@@ -4104,6 +4104,95 @@
         "release": {
             "date": "Feburary 16, 2022",
             "version": "2.5" 
+        }
+    },
+    {
+        "id": 46,
+        "name": "Ayato",
+        "fullname": "Kamisato Ayato",
+        "title": "Pillar of Fortitude",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Kamisato Art: Marobashi",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to dash forward and perform an iai.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Kamisato Art: Kyouka",
+                "description": "Ayato shifts positions and enters the Takimeguri Kanka state. After this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing <b class=\"text-hydro\">AoE Hydro DMG</b>.<br /><br /><b class=\"text-highlight\">Takimeguri Kanka</b><br />In this state, Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into <b class=\"text-hydro\">AoE Hydro DMG</b>. This cannot be overridden.<br />It also has the following properties:<li>After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.</li><li>Ayato's resistance to interruption is increased.</li><li>Unable to use Charged or Plunging Attacks.</li><br />Takimeguri Kanka will be cleared when Ayato leaves the field. Using Kamisato Art: Kyouka again while in the Takimeguri Kanka state will reset and replace the pre-existing state."
+            },
+            "burst": {
+                "name": "Kamisato Art: Suiyuu",
+                "description": "Unveils a garden of purity that silences the cacophony within.<br />While this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing <b class=\"text-hydro\">Hydro DMG</b> and increasing the Normal Attack DMG of characters within."
+            },
+            "a1passive": {
+                "name": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+                "description": "<b class=\"text-highlight\">Kamisato Art: Kyouka</b> has the following properties:<li>After it is used, Ayato will gain 2 Namisen stacks.</li><li>When the water illusion explodes, Ayato will gain a Naimsen effect equal to the maximum number of stacks possible.</li>"
+            },
+            "a4passive": {
+                "name": "Kamisato Art: Michiyuku Hagetsu",
+                "description": "If Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second."
+            },
+            "utilpassive": {
+                "name": "Kamisato Art: Daily Cooking",
+                "description": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional Suspicious dish of the same type."
+            }
+        },
+        "constellation": {
+            "name": "Cypressus Custos",
+            "c1": {
+                "name": "Kyouka Fuushi",
+                "description": "<b class=\"text-highlight\">Shunsuiken</b> DMG is increased by 40% against opponents with 50% HP or less."
+            },
+            "c2": {
+                "name": "World Source",
+                "description": "<b class=\"text-highlight\">Namisen</b>'s maximum stack count is increased to 5. When Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%."
+            },
+            "c3": {
+                "name": "To Admire the Flowers",
+                "description": "Increases the Level of <b class=\"text-highlight\">Kamisato Art: Kyouka</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Endless Flow",
+                "description": "After using <b class=\"text-highlight\">Kamisato Art: Suiyuu</b>, all nearby party members will have 15% increased Normal Attack SPD for 15s."
+            },
+            "c5": {
+                "name": "Bansui Ichiro",
+                "description": "Increases the Level of <b class=\"text-highlight\">Kamisato Art: Suiyuu</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Boundless Origin",
+                "description": "After using <b class=\"text-highlight\">Kamisato Art: Kyouka</b>, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.<br />Both these Shunsuiken attacks will not be affected by Namisen."
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT DMG",
+            "hp": [1068, 2770, 3685, 5514, 6165, 7092, 7960, 8897, 9548, 10494, 11144, 12101, 12751, 13715],
+            "atk": [23, 60, 80, 120, 134, 155, 174, 194, 208, 229, 243, 264, 278, 299],
+            "def": [60, 155, 206, 309, 345, 397, 446, 499, 535, 588, 624, 678, 715, 769],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 59.6, 59.6, 69.2, 69.2, 69.2, 69.2, 78.8, 78.8, 88.4, 88.4]
+        },
+        "materials": {
+            "talentBook": "Elegance",
+            "ascensionMat": "Dew of Repudiation",
+            "localMat": "Sakura Bloom",
+            "commonMat": "Handguard",
+            "bossMat": "Mudra of the Malefic General"
+        },
+        "description": "The young but highly accomplished head of the Yashiro Commision's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+        "birthday": "March 26",
+        "gender": "Male",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Chris Hackney",
+            "jp": "Akira Ishida (石田 彰)"
+        },
+        "release": {
+            "date": "March 30, 2022",
+            "version": "2.6" 
         }
     }
 ]
