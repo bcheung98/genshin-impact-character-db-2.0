@@ -2950,7 +2950,7 @@
             },
             "skill": {
                 "name": "Kamisato Art: Hyouka",
-                "description": "Summons blooming ice to launch nearby opponents dealing <b class=\"text-highlight\">AoE Cryo DMG</b>."
+                "description": "Summons blooming ice to launch nearby opponents dealing <b class=\"text-cryo\">AoE Cryo DMG</b>."
             },
             "burst": {
                 "name": "Kamisato Art: Soumetsu",
