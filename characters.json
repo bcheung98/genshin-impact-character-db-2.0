@@ -889,95 +889,6 @@
     },
     {
         "id": 10,
-        "name": "Klee",
-        "title": "Fleeing Sunlight",
-        "rarity": 5,
-        "element": "Pyro",
-        "weapon": "Catalyst",
-        "talents": {
-            "attack": {
-                "name": "Kaboom!",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Consumes a certain amount of Stamina and deals <b class=\"text-pyro\">AoE Pyro DMG</b> to opponents after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground."
-            },
-            "skill": {
-                "name": "Jumpy Dumpty",
-                "description": "Jumpy Dumpty is tons of boom-bang-fun!<br />When thrown, Jumpy Dumpty bounces thrice, igniting and dealing <b class=\"text-pyro\">AoE Pyro DMG</b> with every bounce.<br />On the third bounce, the bomb splits into many mines.<br />The mines will explode upon contact with opponents, or after a short period of time, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br />Starts with 2 charges."
-            },
-            "burst": {
-                "name": "Sparks 'n' Splash",
-                "description": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>."
-            },
-            "a1passive": {
-                "name": "Pounding Surprise",
-                "description": "When <b class=\"text-highlight\">Jumpy Dumpty</b> and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG."
-            },
-            "a4passive": {
-                "name": "Sparkling Burst",
-                "description": "When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental Energy."
-            },
-            "utilpassive": {
-                "name": "All Of My Treasures!",
-                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Mondstadt</b> on the mini-map."
-            }
-        },
-        "constellation": {
-            "name": "Trifolium",
-            "c1": {
-                "name": "Chained Reactions",
-                "description": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of <b class=\"text-highlight\">Sparks 'n' Splash</b>'s DMG."
-            },
-            "c2": {
-                "name": "Explosive Frags",
-                "description": "Being hit by <b class=\"text-highlight\">Jumpy Dumpty</b>'s mines decreases opponents' DEF by 23% for 10s."
-            },
-            "c3": {
-                "name": "Exquisite Compound",
-                "description": "Increases the Level of <b class=\"text-highlight\">Jumpy Dumpty</b> by 3.<br />Maximum upgrade level is 15."
-            },
-            "c4": {
-                "name": "Sparkly Explosion",
-                "description": "If Klee leaves the field during the duration of <b class=\"text-highlight\">Sparks 'n' Splash</b>, her departure triggers an explosion that deals 555% of her ATK as <b class=\"text-pyro\">AoE Pyro DMG</b>."
-            },
-            "c5": {
-                "name": "Nova Burst",
-                "description": "Increases the Level of <b class=\"text-highlight\">Sparks 'n' Splash</b> by 3.<br />Maximum upgrade level is 15."
-            },
-            "c6": {
-                "name": "Blazing Delight",
-                "description": "While under the effects of <b class=\"text-highlight\">Sparks 'n' Splash</b>, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.<br />When <b class=\"text-highlight\">Sparks 'n' Splash</b> is used, all party members will gain a 10% <b class=\"text-pyro\">Pyro DMG Bonus</b> for 25s."
-            }
-        },
-        "stats": {
-            "ascensionStat": "Pyro DMG Bonus",
-            "hp": [801, 2077, 2764, 4136, 4623, 5319, 5970, 6673, 7161, 7870, 8358, 9076, 9563, 10287],
-            "atk": [24, 63, 84, 125, 140, 161, 180, 202, 216, 238, 253, 274, 289, 311],
-            "def": [48, 124, 165, 247, 276, 318, 357, 399, 428, 470, 500, 542, 572, 615],
-            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
-            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
-        },
-        "materials": {
-            "talentBook": "Freedom",
-            "ascensionMat": "Everflame Seed",
-            "localMat": "Philanemo Mushroom",
-            "commonMat": "Scroll",
-            "bossMat": "Ring of Boreas"
-        },
-        "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
-        "birthday": "July 27",
-        "gender": "Female",
-        "nation": "Mondstadt",
-        "voiceActors": {
-            "en": "Poonam Basu",
-            "jp": "Misaki Kuno (久野美咲)"
-        },
-        "release": {
-            "date": "September 28, 2020",
-            "version": "1.0" 
-        }
-    },
-    {
-        "id": 11,
         "name": "Lisa",
         "title": "Witch of Purple Rose",
         "rarity": 4,
@@ -1066,7 +977,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "Mona",
         "title": "Astral Reflection",
         "rarity": 5,
@@ -1159,7 +1070,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "Ningguang",
         "title": "Eclipsing Star",
         "rarity": 4,
@@ -1248,7 +1159,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Noelle",
         "title": "Chivalric Blossom",
         "rarity": 4,
@@ -1337,7 +1248,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Qiqi",
         "title": "Icy Resurrection",
         "rarity": 5,
@@ -1426,7 +1337,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Razor",
         "title": "Wolf Boy",
         "rarity": 4,
@@ -1515,7 +1426,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Sucrose",
         "title": "Harmless Sweetie",
         "rarity": 4,
@@ -1604,96 +1515,7 @@
         }
     },
     {
-        "id": 18,
-        "name": "Venti",
-        "title": "Windborne Bard",
-        "rarity": 5,
-        "element": "Anemo",
-        "weapon": "Bow",
-        "talents": {
-            "attack": {
-                "name": "Divine Marksmanship",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
-            },
-            "skill": {
-                "name": "Skyward Sonnet",
-                "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!<br /><br /><b class=\"text-highlight\">Press</b><br /> Summons a Wind Domain at the opponent's location, dealing <b class=\"text-anemo\">AoE Anemo DMG</b> and launching opponents into the air.<br /><br /><b class=\"text-highlight\">Hold</b><br /> Summons an even larger Wind Domain with Venti as the epicenter, dealing <b class=\"text-anemo\">AoE Anemo DMG</b> and launching affected opponents into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air.<br /><br />Opponents hit by Skyward Sonnet will fall to the ground slowly."
-            },
-            "burst": {
-                "name": "Wind's Grand Ode",
-                "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and opponents and deals continuous <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Elemental Absorption</b><br /> If the Stormeye comes into contact with <b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-cryo\">Cryo</b>/<b class=\"text-electro\">Electro</b> elements, it will deal additional elemental DMG of that type.<br />Elemental Absorption may only occur once per use."
-            },
-            "a1passive": {
-                "name": "Embrace of Winds",
-                "description": "Holding <b class=\"text-highlight\">Skyward Sonnet</b> creates an upcurrent that lasts for 20s."
-            },
-            "a4passive": {
-                "name": "Stormeye",
-                "description": "Regenerates 15 Energy for Venti after the effects of <b class=\"text-highlight\">Wind's Grand Ode</b> end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element."
-            },
-            "utilpassive": {
-                "name": "Windrider",
-                "description": "Decreases gliding Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
-            }
-        },
-        "constellation": {
-            "name": "Carmen Dei",
-            "c1": {
-                "name": "Splitting Gales",
-                "description": "Fires 2 additional arrows per <b class=\"text-highlight\">Aimed Shot</b>, each dealing 33% of the original arrow's DMG."
-            },
-            "c2": {
-                "name": "Breeze of Reminiscence",
-                "description": "<b class=\"text-highlight\">Skyward Sonnet</b> decreases opponents' <b class=\"text-anemo\">Anemo RES</b> and Physical RES by 12% for 10s.<br />Opponents launched by <b class=\"text-highlight\">Skyward Sonnet</b> suffer an additional 12% <b class=\"text-anemo\">Anemo RES</b> and Physical RES decrease while airborne."
-            },
-            "c3": {
-                "name": "Ode to Thousand Winds",
-                "description": "Increases the Level of <b class=\"text-highlight\">Wind's Grand Ode</b> by 3.<br />Maximum upgrade level is 15."
-            },
-            "c4": {
-                "name": "Hurricane of Freedom",
-                "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% <b class=\"text-anemo\">Anemo DMG Bonus</b> for 10s."
-            },
-            "c5": {
-                "name": "Concerto dal Cielo",
-                "description": "Increases the Level of <b class=\"text-highlight\">Skyward Sonnet</b> by 3.<br />Maximum upgrade level is 15."
-            },
-            "c6": {
-                "name": "Storm of Defiance",
-                "description": "Targets who take DMG from <b class=\"text-highlight\">Wind's Grand Ode</b> have their <b class=\"text-anemo\">Anemo RES</b> decreased by 20%.<br />If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
-            }
-        },
-        "stats": {
-            "ascensionStat": "Energy Recharge",
-            "hp": [820, 2127, 2830, 4234, 4734, 5446, 6112, 6832, 7331, 8058, 8557, 9292, 9790, 10531],
-            "atk": [20, 53, 71, 106, 118, 136, 153, 171, 183, 201, 214, 232, 245, 263],
-            "def": [52, 135, 180, 269, 301, 346, 388, 434, 465, 512, 543, 590, 622, 669],
-            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
-            "special": [0, 0, 0, 0, 8, 8, 16, 16, 16, 16, 24, 24, 32, 32]
-        },
-        "materials": {
-            "talentBook": "Ballad",
-            "ascensionMat": "Hurricane Seed",
-            "localMat": "Cecilia",
-            "commonMat": "Slime",
-            "bossMat": "Tail of Boreas"
-        },
-        "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-        "birthday": "June 16",
-        "gender": "Male",
-        "nation": "Mondstadt",
-        "voiceActors": {
-            "en": "Erika Harlacher",
-            "jp": "Ayumu Murase (村瀬歩)"
-        },
-        "release": {
-            "date": "September 28, 2020",
-            "version": "1.0" 
-        }
-    },
-    {
-        "id": 19,
+        "id": 17,
         "name": "Xiangling",
         "title": "Exquisite Delicacy",
         "rarity": 4,
@@ -1782,7 +1604,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 18,
         "name": "Xingqiu",
         "title": "Juvenile Galant",
         "rarity": 4,
@@ -1867,6 +1689,184 @@
         },
         "release": {
             "date": "September 28, 2020",
+            "version": "1.0" 
+        }
+    },
+    {
+        "id": 19,
+        "name": "Venti",
+        "title": "Windborne Bard",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Divine Marksmanship",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            },
+            "skill": {
+                "name": "Skyward Sonnet",
+                "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!<br /><br /><b class=\"text-highlight\">Press</b><br /> Summons a Wind Domain at the opponent's location, dealing <b class=\"text-anemo\">AoE Anemo DMG</b> and launching opponents into the air.<br /><br /><b class=\"text-highlight\">Hold</b><br /> Summons an even larger Wind Domain with Venti as the epicenter, dealing <b class=\"text-anemo\">AoE Anemo DMG</b> and launching affected opponents into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air.<br /><br />Opponents hit by Skyward Sonnet will fall to the ground slowly."
+            },
+            "burst": {
+                "name": "Wind's Grand Ode",
+                "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and opponents and deals continuous <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Elemental Absorption</b><br /> If the Stormeye comes into contact with <b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-cryo\">Cryo</b>/<b class=\"text-electro\">Electro</b> elements, it will deal additional elemental DMG of that type.<br />Elemental Absorption may only occur once per use."
+            },
+            "a1passive": {
+                "name": "Embrace of Winds",
+                "description": "Holding <b class=\"text-highlight\">Skyward Sonnet</b> creates an upcurrent that lasts for 20s."
+            },
+            "a4passive": {
+                "name": "Stormeye",
+                "description": "Regenerates 15 Energy for Venti after the effects of <b class=\"text-highlight\">Wind's Grand Ode</b> end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element."
+            },
+            "utilpassive": {
+                "name": "Windrider",
+                "description": "Decreases gliding Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Carmen Dei",
+            "c1": {
+                "name": "Splitting Gales",
+                "description": "Fires 2 additional arrows per <b class=\"text-highlight\">Aimed Shot</b>, each dealing 33% of the original arrow's DMG."
+            },
+            "c2": {
+                "name": "Breeze of Reminiscence",
+                "description": "<b class=\"text-highlight\">Skyward Sonnet</b> decreases opponents' <b class=\"text-anemo\">Anemo RES</b> and Physical RES by 12% for 10s.<br />Opponents launched by <b class=\"text-highlight\">Skyward Sonnet</b> suffer an additional 12% <b class=\"text-anemo\">Anemo RES</b> and Physical RES decrease while airborne."
+            },
+            "c3": {
+                "name": "Ode to Thousand Winds",
+                "description": "Increases the Level of <b class=\"text-highlight\">Wind's Grand Ode</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Hurricane of Freedom",
+                "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% <b class=\"text-anemo\">Anemo DMG Bonus</b> for 10s."
+            },
+            "c5": {
+                "name": "Concerto dal Cielo",
+                "description": "Increases the Level of <b class=\"text-highlight\">Skyward Sonnet</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Storm of Defiance",
+                "description": "Targets who take DMG from <b class=\"text-highlight\">Wind's Grand Ode</b> have their <b class=\"text-anemo\">Anemo RES</b> decreased by 20%.<br />If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Energy Recharge",
+            "hp": [820, 2127, 2830, 4234, 4734, 5446, 6112, 6832, 7331, 8058, 8557, 9292, 9790, 10531],
+            "atk": [20, 53, 71, 106, 118, 136, 153, 171, 183, 201, 214, 232, 245, 263],
+            "def": [52, 135, 180, 269, 301, 346, 388, 434, 465, 512, 543, 590, 622, 669],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 8, 8, 16, 16, 16, 16, 24, 24, 32, 32]
+        },
+        "materials": {
+            "talentBook": "Ballad",
+            "ascensionMat": "Hurricane Seed",
+            "localMat": "Cecilia",
+            "commonMat": "Slime",
+            "bossMat": "Tail of Boreas"
+        },
+        "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+        "birthday": "June 16",
+        "gender": "Male",
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Erika Harlacher",
+            "jp": "Ayumu Murase (村瀬歩)"
+        },
+        "release": {
+            "date": "September 28, 2020",
+            "version": "1.0" 
+        }
+    },
+    {
+        "id": 20,
+        "name": "Klee",
+        "title": "Fleeing Sunlight",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Kaboom!",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Consumes a certain amount of Stamina and deals <b class=\"text-pyro\">AoE Pyro DMG</b> to opponents after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground."
+            },
+            "skill": {
+                "name": "Jumpy Dumpty",
+                "description": "Jumpy Dumpty is tons of boom-bang-fun!<br />When thrown, Jumpy Dumpty bounces thrice, igniting and dealing <b class=\"text-pyro\">AoE Pyro DMG</b> with every bounce.<br />On the third bounce, the bomb splits into many mines.<br />The mines will explode upon contact with opponents, or after a short period of time, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br />Starts with 2 charges."
+            },
+            "burst": {
+                "name": "Sparks 'n' Splash",
+                "description": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>."
+            },
+            "a1passive": {
+                "name": "Pounding Surprise",
+                "description": "When <b class=\"text-highlight\">Jumpy Dumpty</b> and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG."
+            },
+            "a4passive": {
+                "name": "Sparkling Burst",
+                "description": "When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental Energy."
+            },
+            "utilpassive": {
+                "name": "All Of My Treasures!",
+                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Mondstadt</b> on the mini-map."
+            }
+        },
+        "constellation": {
+            "name": "Trifolium",
+            "c1": {
+                "name": "Chained Reactions",
+                "description": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of <b class=\"text-highlight\">Sparks 'n' Splash</b>'s DMG."
+            },
+            "c2": {
+                "name": "Explosive Frags",
+                "description": "Being hit by <b class=\"text-highlight\">Jumpy Dumpty</b>'s mines decreases opponents' DEF by 23% for 10s."
+            },
+            "c3": {
+                "name": "Exquisite Compound",
+                "description": "Increases the Level of <b class=\"text-highlight\">Jumpy Dumpty</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Sparkly Explosion",
+                "description": "If Klee leaves the field during the duration of <b class=\"text-highlight\">Sparks 'n' Splash</b>, her departure triggers an explosion that deals 555% of her ATK as <b class=\"text-pyro\">AoE Pyro DMG</b>."
+            },
+            "c5": {
+                "name": "Nova Burst",
+                "description": "Increases the Level of <b class=\"text-highlight\">Sparks 'n' Splash</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Blazing Delight",
+                "description": "While under the effects of <b class=\"text-highlight\">Sparks 'n' Splash</b>, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.<br />When <b class=\"text-highlight\">Sparks 'n' Splash</b> is used, all party members will gain a 10% <b class=\"text-pyro\">Pyro DMG Bonus</b> for 25s."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Pyro DMG Bonus",
+            "hp": [801, 2077, 2764, 4136, 4623, 5319, 5970, 6673, 7161, 7870, 8358, 9076, 9563, 10287],
+            "atk": [24, 63, 84, 125, 140, 161, 180, 202, 216, 238, 253, 274, 289, 311],
+            "def": [48, 124, 165, 247, 276, 318, 357, 399, 428, 470, 500, 542, 572, 615],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Freedom",
+            "ascensionMat": "Everflame Seed",
+            "localMat": "Philanemo Mushroom",
+            "commonMat": "Scroll",
+            "bossMat": "Ring of Boreas"
+        },
+        "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+        "birthday": "July 27",
+        "gender": "Female",
+        "nation": "Mondstadt",
+        "voiceActors": {
+            "en": "Poonam Basu",
+            "jp": "Misaki Kuno (久野美咲)"
+        },
+        "release": {
+            "date": "October 20, 2020",
             "version": "1.0" 
         }
     },
