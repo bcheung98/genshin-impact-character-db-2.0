@@ -4721,5 +4721,104 @@
             "date": "May 31, 2022",
             "version": "2.7" 
         }
+    },
+    {
+        "id": 48,
+        "name": "Shinobu",
+        "fullname": "Kuki Shinobu",
+        "title": "Mender of Tribulations",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Shinobu's Shadowsword",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "48.76%", "52.73%", "56.7%", "62.37%", "66.34%", "70.88%", "77.11%", "83.35%", "89.59%", "96.39%", "103.19%", "110%", "116.8%", "123.61%", "130.41%"], ["2-Hit DMG", "44.55%", "48.17%", "51.8%", "56.98%", "60.61%", "64.75%", "70.45%", "76.15%", "81.84%", "88.06%", "94.28%", "100.49%", "106.71%", "112.92%", "119.14%"], ["3-Hit DMG", "59.34%", "64.17%", "69%", "75.9%", "80.73%", "86.25%", "93.84%", "101.43%", "109.02%", "117.3%", "125.58%", "133.86%", "142.14%", "150.42%", "158.7%"], ["4-Hit DMG", "76.11%", "82.31%", "88.5%", "97.35%", "103.55%", "110.63%", "120.36%", "130.1%", "139.83%", "150.45%", "161.07%", "171.69%", "182.31%", "192.93%", "203.55%"], ["Charged Attack DMG", "55.63% + 66.77%", "60.16% + 72.2%", "64.69% + 77.63%", "71.16% + 85.4%", "75.69% + 90.83%", "80.86% + 97.04%", "87.98% + 105.58%", "95.09% + 114.12%", "102.21% + 122.66%", "109.97% + 131.98%", "117.74% + 141.29%", "125.5% + 150.61%", "133.26% + 159.93%", "141.02% + 169.24%", "148.79% + 178.56%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Sanctifying Ring",
+                "description": "Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing <b class=\"text-electro\">Electro DMG</b> to nearby opponents.<br /><br /><b class=\"text-highlight\">Grass Ring of Sanctification</b><br />Follows your current active character around. Deals <b class=\"text-electro\">Electro DMG</b> to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Shinobu's Max HP.<br /><br />The HP consumption from using this skill can only bring her to 20% HP.",
+                "scaling": [
+                    ["Skill DMG", "75.71%", "81.39%", "87.07%", "94.64%", "100.32%", "106%", "113.57%", "121.14%", "128.71%", "136.28%", "143.85%", "151.42%", "160.89%", "170.35%", "179.82%"], ["Grass Ring of Sanctification Healing", "3% Max HP + 289", "3.23% Max HP + 318", "3.45% Max HP + 349", "3.75% Max HP + 383", "3.98% Max HP + 419", "4.2% Max HP + 457", "4.5% Max HP + 498", "4.8% Max HP + 542", "5.1% Max HP + 587", "5.4% Max HP + 636", "5.7% Max HP + 686", "6% Max HP + 739", "6.38% Max HP + 795", "6.75% Max HP + 852", "7.12% Max HP + 913"], ["Grass Ring of Sanctification DMG", "25.24%", "27.13%", "29.03%", "31.55%", "33.44%", "35.34%", "37.86%", "40.38%", "42.91%", "45.43%", "47.96%", "50.48%", "53.64%", "56.79%", "59.95%"], ["Activation Cost", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP", "30% Current HP"], ["Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"]
+                ]
+            },
+            "burst": {
+                "name": "Gyoei Narukami Kariyama Rite",
+                "description": "Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous <b class=\"text-electro\">Electro DMG</b> to opponents within its AoE based on Shinobu's Max HP.<br />If Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.",
+                "scaling": [
+                    ["Single Instance DMG", "3.6% Max HP", "3.88% Max HP", "4.15% Max HP", "4.51% Max HP", "4.78% Max HP", "5.05% Max HP", "5.41% Max HP", "5.77% Max HP", "6.13% Max HP", "6.49% Max HP", "6.85% Max HP", "7.21% Max HP", "7.66% Max HP", "8.11% Max HP", "8.56% Max HP"], ["Total DMG", "25.23% / 43.26% Max HP", "27.13% / 46.5% Max HP", "29.02% / 49.75% Max HP", "31.54% / 54.07% Max HP", "33.43% / 57.32% Max HP", "35.33% / 60.56% Max HP", "37.85% / 64.89% Max HP", "40.37% / 69.21% Max HP", "42.9% / 73.54% Max HP", "45.42% / 77.86% Max HP", "47.94% / 82.19% Max HP", "50.47% / 86.52% Max HP", "53.62% / 91.92% Max HP", "56.78% / 97.33% Max HP", "59.93% / 102.74% Max HP"], ["Duration", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s", "2s / 3.5s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ]
+            },
+            "a1passive": {
+                "name": "Breaking Free",
+                "description": "When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%."
+            },
+            "a4passive": {
+                "name": "Heart's Repose",
+                "description": "<b class=\"text-highlight\">Sanctifying Ring</b>'s abilities will be boosted based on Shinobu's Elemental Mastery:<br /><li>Healing amount will be increased by 75% of Elemental Mastery.</li><li>DMG dealt is increased by 25% of Elemental Mastery.</li>"
+            },
+            "utilpassive": {
+                "name": "Protracted Prayers",
+                "description": "Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours."
+            }
+        },
+        "constellation": {
+            "name": "Tribulatio Demptio",
+            "c1": {
+                "name": "To Cloister Compassion",
+                "description": "<b class=\"text-highlight\">Gyoei Narukami Kariyama Rite</b>'s AoE is increased by 50%."
+            },
+            "c2": {
+                "name": "To Forsake Fortune",
+                "description": "<b class=\"text-highlight\">Grass Ring of Sanctification</b>'s duration is increased by 3s."
+            },
+            "c3": {
+                "name": "To Sequester Sorrow",
+                "description": "Increases the Level of <b class=\"text-highlight\">Sanctifying Ring</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "To Sever Sealing",
+                "description": "When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's <b class=\"text-highlight\">Grass Ring of Sanctification</b> hit opponents, a Thundergrass Mark will land on the opponent's position and deal <b class=\"text-electro\">AoE Electro DMG</b> based on 9.7% of Shinobu's Max HP.<br />This effect can occur once every 5s."
+            },
+            "c5": {
+                "name": "To Cease Courtesies",
+                "description": "Increases the Level of <b class=\"text-highlight\">Gyoei Narukami Kariyama Rite</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "To Ward Weakness",
+                "description": "When Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s.<br />When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s."
+            }
+        },
+        "stats": {
+                "ascensionStat": "HP%",
+                "hp": [1030, 2647, 3417, 5118, 5665, 6516, 7245, 8096, 8643, 9493, 10040, 10891, 11438, 12289],
+                "atk": [18, 46, 59, 88, 98, 113, 125, 140, 149, 164, 174, 188, 198, 212],
+                "def": [63, 162, 209, 313, 346, 398, 443, 495, 528, 580, 613, 665, 699, 751],
+                "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+                "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+            },
+        "materials": {
+            "talentBook": "Elegance",
+            "ascensionMat": "Runic Fang",
+            "localMat": "Naku Weed",
+            "commonMat": "Specter",
+            "bossMat": "Tears of the Calamitous God"
+        },
+        "description": "The capable and reliable deputy leader of the \"Arataki Gang\" - Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+        "birthday": "July 27",
+        "gender": "Female",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Kira Buckland",
+            "jp": "Kaori Mizuhashi (水橋 かおり)"
+        },
+        "release": {
+            "date": "June 22, 2022",
+            "version": "2.7" 
+        }
     }
 ]
