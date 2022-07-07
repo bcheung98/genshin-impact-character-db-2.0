@@ -79,10 +79,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Small Lamp Grass",
             "commonMat": "Arrow",
-            "bossMat": "Dvalin's Sigh"
+            "weeklyBossMat": "Dvalin's Sigh"
         },
         "description": "Always energetic and full of life, Amber's the best ⁠— albeit only ⁠— Outrider of the Knights of Favonius.",
         "birthday": "August 10",
@@ -177,10 +177,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Cleansing Heart",
+            "bossMat": "Cleansing Heart",
             "localMat": "Philanemo Mushroom",
             "commonMat": "Scroll",
-            "bossMat": "Ring of Boreas"
+            "weeklyBossMat": "Ring of Boreas"
         },
         "description": "Every citizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
         "birthday": "July 5",
@@ -275,10 +275,10 @@
         },
         "materials": {
             "talentBook": "Gold",
-            "ascensionMat": "Lightning Prism",
+            "bossMat": "Lightning Prism",
             "localMat": "Noctilucous Jade",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Dvalin's Sigh"
+            "weeklyBossMat": "Dvalin's Sigh"
         },
         "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
         "birthday": "February 14",
@@ -373,10 +373,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Windwheel Aster",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Dvalin's Plume"
+            "weeklyBossMat": "Dvalin's Plume"
         },
         "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
         "birthday": "February 29",
@@ -471,10 +471,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Cor Lapis",
             "commonMat": "Mask",
-            "bossMat": "Dvalin's Sigh"
+            "weeklyBossMat": "Dvalin's Sigh"
         },
         "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
         "birthday": "September 7",
@@ -568,10 +568,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Small Lamp Grass",
             "commonMat": "Fatui Insignia",
-            "bossMat": "Dvalin's Plume"
+            "weeklyBossMat": "Dvalin's Plume"
         },
         "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
         "birthday": "April 30",
@@ -666,10 +666,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Lightning Prism",
+            "bossMat": "Lightning Prism",
             "localMat": "Small Lamp Grass",
             "commonMat": "Arrow",
-            "bossMat": "Spirit Locket of Boreas"
+            "weeklyBossMat": "Spirit Locket of Boreas"
         },
         "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
         "birthday": "May 27",
@@ -764,10 +764,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Hurricane Seed",
+            "bossMat": "Hurricane Seed",
             "localMat": "Dandelion Seed",
             "commonMat": "Mask",
-            "bossMat": "Dvalin's Plume"
+            "weeklyBossMat": "Dvalin's Plume"
         },
         "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius of Mondstadt.",
         "birthday": "March 14",
@@ -862,10 +862,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Calla Lily",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Spirit Locket of Boreas"
+            "weeklyBossMat": "Spirit Locket of Boreas"
         },
         "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
         "birthday": "November 30",
@@ -959,10 +959,10 @@
         },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Lightning Prism",
+            "bossMat": "Lightning Prism",
             "localMat": "Cor Lapis",
             "commonMat": "Nectar",
-            "bossMat": "Ring of Boreas"
+            "weeklyBossMat": "Ring of Boreas"
         },
         "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue ⁠— but in truth, gods admire skeptics such as her quite a lot.",
         "birthday": "November 20",
@@ -1057,10 +1057,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Lightning Prism",
+            "bossMat": "Lightning Prism",
             "localMat": "Valberry",
             "commonMat": "Slime",
-            "bossMat": "Dvalin's Claw"
+            "weeklyBossMat": "Dvalin's Claw"
         },
         "description": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
         "birthday": "June 9",
@@ -1162,10 +1162,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Cleansing Heart",
+            "bossMat": "Cleansing Heart",
             "localMat": "Philanemo Mushroom",
             "commonMat": "Nectar",
-            "bossMat": "Ring of Boreas"
+            "weeklyBossMat": "Ring of Boreas"
         },
         "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus\", and who possesses abilities to match the title. Erudite, but prideful.",
         "birthday": "August 31",
@@ -1260,10 +1260,10 @@
         },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Basalt Pillar",
+            "bossMat": "Basalt Pillar",
             "localMat": "Glaze Lily",
             "commonMat": "Fatui Insignia",
-            "bossMat": "Spirit Locket of Boreas"
+            "weeklyBossMat": "Spirit Locket of Boreas"
         },
         "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
         "birthday": "August 26",
@@ -1358,10 +1358,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Basalt Pillar",
+            "bossMat": "Basalt Pillar",
             "localMat": "Valberry",
             "commonMat": "Mask",
-            "bossMat": "Dvalin's Claw"
+            "weeklyBossMat": "Dvalin's Claw"
         },
         "description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
         "birthday": "March 21",
@@ -1456,10 +1456,10 @@
         },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Violetgrass",
             "commonMat": "Scroll",
-            "bossMat": "Tail of Boreas"
+            "weeklyBossMat": "Tail of Boreas"
         },
         "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
         "birthday": "March 3",
@@ -1554,10 +1554,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Lightning Prism",
+            "bossMat": "Lightning Prism",
             "localMat": "Wolfhook",
             "commonMat": "Mask",
-            "bossMat": "Dvalin's Claw"
+            "weeklyBossMat": "Dvalin's Claw"
         },
         "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
         "birthday": "September 9",
@@ -1652,10 +1652,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Hurricane Seed",
+            "bossMat": "Hurricane Seed",
             "localMat": "Windwheel Aster",
             "commonMat": "Nectar",
-            "bossMat": "Spirit Locket of Boreas"
+            "weeklyBossMat": "Spirit Locket of Boreas"
         },
         "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
         "birthday": "November 26",
@@ -1750,10 +1750,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Jueyun Chili",
             "commonMat": "Slime",
-            "bossMat": "Dvalin's Claw"
+            "weeklyBossMat": "Dvalin's Claw"
         },
         "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
         "birthday": "November 2",
@@ -1848,10 +1848,10 @@
         },
         "materials": {
             "talentBook": "Gold",
-            "ascensionMat": "Cleansing Heart",
+            "bossMat": "Cleansing Heart",
             "localMat": "Silk Flower",
             "commonMat": "Mask",
-            "bossMat": "Tail of Boreas"
+            "weeklyBossMat": "Tail of Boreas"
         },
         "description": "A young man carrying a longsword who is frequently seen at book booths. He has a heart of gold and yearns for justice and fairness for all.",
         "birthday": "October 9",
@@ -1946,10 +1946,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Hurricane Seed",
+            "bossMat": "Hurricane Seed",
             "localMat": "Cecilia",
             "commonMat": "Slime",
-            "bossMat": "Tail of Boreas"
+            "weeklyBossMat": "Tail of Boreas"
         },
         "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
         "birthday": "June 16",
@@ -2044,10 +2044,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Philanemo Mushroom",
             "commonMat": "Scroll",
-            "bossMat": "Ring of Boreas"
+            "weeklyBossMat": "Ring of Boreas"
         },
         "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
         "birthday": "July 27",
@@ -2142,10 +2142,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Calla Lily",
             "commonMat": "Arrow",
-            "bossMat": "Shard of a Foul Legacy"
+            "weeklyBossMat": "Shard of a Foul Legacy"
         },
         "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
         "birthday": "January 18",
@@ -2240,10 +2240,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Cleansing Heart",
+            "bossMat": "Cleansing Heart",
             "localMat": "Starconch",
             "commonMat": "Fatui Insignia",
-            "bossMat": "Shard of a Foul Legacy"
+            "weeklyBossMat": "Shard of a Foul Legacy"
         },
         "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
         "birthday": "July 20",
@@ -2338,10 +2338,10 @@
         },
         "materials": {
             "talentBook": "Gold",
-            "ascensionMat": "Everflame Seed",
+            "bossMat": "Everflame Seed",
             "localMat": "Violetgrass",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Tusk of Monoceros Caeli"
+            "weeklyBossMat": "Tusk of Monoceros Caeli"
         },
         "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
         "birthday": "October 16",
@@ -2436,10 +2436,10 @@
         },
         "materials": {
             "talentBook": "Gold",
-            "ascensionMat": "Basalt Pillar",
+            "bossMat": "Basalt Pillar",
             "localMat": "Cor Lapis",
             "commonMat": "Slime",
-            "bossMat": "Tusk of Monoceros Caeli"
+            "weeklyBossMat": "Tusk of Monoceros Caeli"
         },
         "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
         "birthday": "December 31",
@@ -2534,10 +2534,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Basalt Pillar",
+            "bossMat": "Basalt Pillar",
             "localMat": "Cecilia",
             "commonMat": "Scroll",
-            "bossMat": "Tusk of Monoceros Caeli"
+            "weeklyBossMat": "Tusk of Monoceros Caeli"
         },
         "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
         "birthday": "September 13",
@@ -2631,10 +2631,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Qingxin",
             "commonMat": "Nectar",
-            "bossMat": "Shadow of the Warrior"
+            "weeklyBossMat": "Shadow of the Warrior"
         },
         "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
         "birthday": "December 2",
@@ -2728,10 +2728,10 @@
         },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Juvenile Jade",
+            "bossMat": "Juvenile Jade",
             "localMat": "Qingxin",
             "commonMat": "Slime",
-            "bossMat": "Shadow of the Warrior"
+            "weeklyBossMat": "Shadow of the Warrior"
         },
         "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conquerer of Demons\" and \"Vigilant Yaksha\".",
         "birthday": "April 17",
@@ -2825,10 +2825,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Juvenile Jade",
+            "bossMat": "Juvenile Jade",
             "localMat": "Silk Flower",
             "commonMat": "Nectar",
-            "bossMat": "Shard of a Foul Legacy"
+            "weeklyBossMat": "Shard of a Foul Legacy"
         },
         "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
         "birthday": "July 15",
@@ -2923,10 +2923,10 @@
         },
         "materials": {
             "talentBook": "Ballad",
-            "ascensionMat": "Hoarfrost Core",
+            "bossMat": "Hoarfrost Core",
             "localMat": "Valberry",
             "commonMat": "Fatui Insignia",
-            "bossMat": "Shadow of the Warrior"
+            "weeklyBossMat": "Shadow of the Warrior"
         },
         "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
         "birthday": "January 24",
@@ -3021,10 +3021,10 @@
         },
         "materials": {
             "talentBook": "Gold",
-            "ascensionMat": "Juvenile Jade",
+            "bossMat": "Juvenile Jade",
             "localMat": "Noctilucous Jade",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Bloodjade Branch"
+            "weeklyBossMat": "Bloodjade Branch"
         },
         "description": "A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
         "birthday": "July 28",
@@ -3118,10 +3118,10 @@
         },
         "materials": {
             "talentBook": "Resistance",
-            "ascensionMat": "Crystalline Bloom",
+            "bossMat": "Crystalline Bloom",
             "localMat": "Dandelion Seed",
             "commonMat": "Mask",
-            "bossMat": "Dragon Lord's Crown"
+            "weeklyBossMat": "Dragon Lord's Crown"
         },
         "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
         "birthday": "October 25",
@@ -3217,10 +3217,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Marionette Core",
+            "bossMat": "Marionette Core",
             "localMat": "Sea Ganoderma",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Gilded Scale"
+            "weeklyBossMat": "Gilded Scale"
         },
         "description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
         "birthday": "October 29",
@@ -3322,10 +3322,10 @@
         },
         "materials": {
             "talentBook": "Elegance",
-            "ascensionMat": "Perpetual Heart",
+            "bossMat": "Perpetual Heart",
             "localMat": "Sakura Bloom",
             "commonMat": "Handguard",
-            "bossMat": "Bloodjade Branch"
+            "weeklyBossMat": "Bloodjade Branch"
         },
         "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
         "birthday": "September 28",
@@ -3420,10 +3420,10 @@
         },
         "materials": {
             "talentBook": "Light",
-            "ascensionMat": "Marionette Core",
+            "bossMat": "Marionette Core",
             "localMat": "Crystal Marrow",
             "commonMat": "Nectar",
-            "bossMat": "Gilded Scale"
+            "weeklyBossMat": "Gilded Scale"
         },
         "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived",
         "birthday": "October 19",
@@ -3517,10 +3517,10 @@
         },
         "materials": {
             "talentBook": "Transience",
-            "ascensionMat": "Smoldering Pearl",
+            "bossMat": "Smoldering Pearl",
             "localMat": "Naku Weed",
             "commonMat": "Scroll",
-            "bossMat": "Dragon Lord's Crown"
+            "weeklyBossMat": "Dragon Lord's Crown"
         },
         "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival\", she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
         "birthday": "June 21",
@@ -3616,10 +3616,10 @@
         },
         "materials": {
             "talentBook": "Freedom",
-            "ascensionMat": "Crystalline Bloom",
+            "bossMat": "Crystalline Bloom",
             "localMat": "Crystal Marrow",
             "commonMat": "Specter",
-            "bossMat": "Molten Moment"
+            "weeklyBossMat": "Molten Moment"
         },
         "description": "Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.",
         "birthday": "April 4",
@@ -3714,10 +3714,10 @@
         },
         "materials": {
             "talentBook": "Light",
-            "ascensionMat": "Storm Beads",
+            "bossMat": "Storm Beads",
             "localMat": "Amakumo Fruit",
             "commonMat": "Handguard",
-            "bossMat": "Molten Moment"
+            "weeklyBossMat": "Molten Moment"
         },
         "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
         "birthday": "June 26",
@@ -3813,10 +3813,10 @@
         },
         "materials": {
             "talentBook": "Elegance",
-            "ascensionMat": "Storm Beads",
+            "bossMat": "Storm Beads",
             "localMat": "Dendrobium",
             "commonMat": "Mask",
-            "bossMat": "Ashen Heart"
+            "weeklyBossMat": "Ashen Heart"
         },
         "description": "A general of the Tenryou Commission. Audacious, decisive, and skilled in battle.",
         "birthday": "July 14",
@@ -3916,10 +3916,10 @@
         },
         "materials": {
             "talentBook": "Transience",
-            "ascensionMat": "Dew of Repudiation",
+            "bossMat": "Dew of Repudiation",
             "localMat": "Sango Pearl",
             "commonMat": "Specter",
-            "bossMat": "Hellfire Butterfly"
+            "weeklyBossMat": "Hellfire Butterfly"
         },
         "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
         "birthday": "February 22",
@@ -4015,10 +4015,10 @@
         },
         "materials": {
             "talentBook": "Transience",
-            "ascensionMat": "Smoldering Pearl",
+            "bossMat": "Smoldering Pearl",
             "localMat": "Fluorescent Fungus",
             "commonMat": "Treasure Hoarder Insignia",
-            "bossMat": "Hellfire Butterfly"
+            "weeklyBossMat": "Hellfire Butterfly"
         },
         "description": "The Kamisato Clan's housekeeper. A well known \"fixer\" in Inazuma.",
         "birthday": "January 9",
@@ -4114,10 +4114,10 @@
         },
         "materials": {
             "talentBook": "Light",
-            "ascensionMat": "Perpetual Heart",
+            "bossMat": "Perpetual Heart",
             "localMat": "Sango Pearl",
             "commonMat": "Specter",
-            "bossMat": "Molten Moment"
+            "weeklyBossMat": "Molten Moment"
         },
         "description": "The general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
         "birthday": "May 18",
@@ -4212,10 +4212,10 @@
         },
         "materials": {
             "talentBook": "Elegance",
-            "ascensionMat": "Riftborn Regalia",
+            "bossMat": "Riftborn Regalia",
             "localMat": "Onikabuto",
             "commonMat": "Slime",
-            "bossMat": "Ashen Heart"
+            "weeklyBossMat": "Ashen Heart"
         },
         "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka...Wait, what? You've never heard of them? Are you trying to be funny here?",
         "birthday": "June 1",
@@ -4311,10 +4311,10 @@
         },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Dragonheir's False Fin",
+            "bossMat": "Dragonheir's False Fin",
             "localMat": "Qingxin",
             "commonMat": "Nectar",
-            "bossMat": "Hellfire Butterfly"
+            "weeklyBossMat": "Hellfire Butterfly"
         },
         "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
         "birthday": "March 10",
@@ -4410,10 +4410,10 @@
         },
         "materials": {
             "talentBook": "Diligence",
-            "ascensionMat": "Riftborn Regalia",
+            "bossMat": "Riftborn Regalia",
             "localMat": "Glaze Lily",
             "commonMat": "Mask",
-            "bossMat": "Ashen Heart"
+            "weeklyBossMat": "Ashen Heart"
         },
         "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
         "birthday": "May 21",
@@ -4508,10 +4508,10 @@
         },
         "materials": {
             "talentBook": "Light",
-            "ascensionMat": "Dragonheir's False Fin",
+            "bossMat": "Dragonheir's False Fin",
             "localMat": "Sea Ganoderma",
             "commonMat": "Handguard",
-            "bossMat": "The Meaning of Aeons"
+            "weeklyBossMat": "The Meaning of Aeons"
         },
         "description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
         "birthday": "June 27",
@@ -4606,10 +4606,10 @@
         },
         "materials": {
             "talentBook": "Elegance",
-            "ascensionMat": "Dew of Repudiation",
+            "bossMat": "Dew of Repudiation",
             "localMat": "Sakura Bloom",
             "commonMat": "Handguard",
-            "bossMat": "Mudra of the Malefic General"
+            "weeklyBossMat": "Mudra of the Malefic General"
         },
         "description": "The young but highly accomplished head of the Yashiro Commision's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
         "birthday": "March 26",
@@ -4704,10 +4704,10 @@
             },
         "materials": {
             "talentBook": "Prosperity",
-            "ascensionMat": "Runic Fang",
+            "bossMat": "Runic Fang",
             "localMat": "Starconch",
             "commonMat": "Fatui Insignia",
-            "bossMat": "Gilded Scale"
+            "weeklyBossMat": "Gilded Scale"
         },
         "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
         "birthday": "April 20",
@@ -4803,10 +4803,10 @@
             },
         "materials": {
             "talentBook": "Elegance",
-            "ascensionMat": "Runic Fang",
+            "bossMat": "Runic Fang",
             "localMat": "Naku Weed",
             "commonMat": "Specter",
-            "bossMat": "Tears of the Calamitous God"
+            "weeklyBossMat": "Tears of the Calamitous God"
         },
         "description": "The capable and reliable deputy leader of the \"Arataki Gang\" - Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
         "birthday": "July 27",
