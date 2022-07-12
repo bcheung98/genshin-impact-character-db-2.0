@@ -4820,5 +4820,104 @@
             "date": "June 22, 2022",
             "version": "2.7" 
         }
+    },
+    {
+        "id": 49,
+        "name": "Heizou",
+        "fullname": "Shikanoin Heizou",
+        "title": "Analytical Harmony",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Fudou Style Martial Arts",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 fisticuffs empowered by a mighty wind, dealing <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina and performs a sweeping kick that deals <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Calling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals <b class=\"text-anemo\">AoE Anemo DMG</b> upon impact with the ground.",
+                "scaling": [
+                    ["1-Hit DMG", "37.47%", "40.28%", "43.09%", "46.84%", "49.65%", "52.46%", "56.21%", "59.96%", "63.71%", "67.45%", "71.2%", "74.95%", "79.63%", "84.32%", "89%"], ["2-Hit DMG", "36.85%", "39.62%", "42.38%", "46.07%", "48.83%", "51.59%", "55.28%", "58.96%", "62.65%", "66.33%", "70.02%", "73.7%", "78.31%", "82.92%", "87.52%"], ["3-Hit DMG", "51.06%", "54.89%", "58.72%", "63.83%", "67.65%", "71.48%", "76.59%", "81.7%", "86.8%", "91.91%", "97.01%", "102.12%", "108.5%", "114.89%", "121.27%"], ["4-Hit DMG", "14.78% + 16.26% + 19.22%", "15.89% + 17.48% + 20.66%", "17% + 18.7% + 22.1%", "18.48% + 20.33% + 24.02%", "19.59% + 21.55% + 25.46%", "20.7% + 22.77% + 26.9%", "22.17% + 24.39% + 28.83%", "23.65% + 26.02% + 30.75%", "25.13% + 27.64% + 32.67%", "26.61% + 29.27% + 34.59%", "28.09% + 30.9% + 36.51%", "29.56% + 32.52% + 38.44%", "31.41% + 34.55% + 40.84%", "33.26% + 36.59% + 43.24%", "35.11% + 38.62% + 45.64%"], ["5-Hit DMG", "61.45%", "66.06%", "70.67%", "76.81%", "81.42%", "86.03%", "92.17%", "98.32%", "104.46%", "110.61%", "116.75%", "122.9%", "130.58%", "138.26%", "145.94%"], ["Charged Attack", "73%", "78.48%", "83.95%", "91.25%", "96.73%", "102.2%", "109.5%", "116.8%", "124.1%", "131.4%", "138.7%", "146%", "155.13%", "164.25%", "173.38%"], ["Charged Attack Stamina Cost", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Heartstopper Strike",
+                "description": "<b class=\"text-highlight\">Tap</b><br />Wields the swift winds to launch a Heartstopper Strike that deals <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Hold</b><br />Charges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Declension</b><br />Increases the power of the next Heartstopper Strike. Max 4 stacks.<br />When Heizou possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Heartstopper Strike to be even stronger and have a larger AoE.",
+                "scaling": [
+                    ["Skill DMG", "227.52%", "244.58%", "261.65%", "284.4%", "301.46%", "318.53%", "341.28%", "364.03%", "386.78%", "409.54%", "432.29%", "455.04%", "483.48%", "511.92%", "540.36%"], ["Declension DMG Bonus", "56.88% /stack", "61.15% /stack", "65.41% /stack", "71.1% /stack", "75.37% /stack", "79.63% /stack", "85.32% /stack", "91.01% /stack", "96.7% /stack", "102.38% /stack", "108.07% /stack", "113.76% /stack", "120.87% /stack", "127.98% /stack", "135.09% /stack"], ["Conviction DMG Bonus", "113.76%", "122.29%", "130.82%", "142.2%", "150.73%", "159.26%", "170.64%", "182.02%", "193.39%", "204.77%", "216.14%", "227.52%", "241.74%", "255.96%", "270.18%"], ["Declension Duration", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s", "60 s"], ["CD", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s", "10 s"]
+                ]
+            },
+            "burst": {
+                "name": "Windmuster Kick",
+                "description": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing <b class=\"text-anemo\">AoE Anemo DMG</b>.<br />When Vacuum Slugger hits opponents affected by <b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-cryo\">Cryo</b>/<b class=\"text-electro\">Electro</b>, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.<br />Vacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.",
+                "scaling": [
+                    ["Fudou Style Vacuum Slugger DMG", "314.69%", "338.29%", "361.89%", "393.36%", "416.96%", "440.56%", "472.03%", "503.5%", "534.97%", "566.44%", "597.91%", "629.38%", "668.71%", "708.05%", "747.38%"], ["Windmuster Iris DMG", "21.46%", "23.07%", "24.67%", "26.82%", "28.43%", "30.04%", "32.18%", "34.33%", "36.48%", "38.62%", "40.77%", "42.91%", "45.59%", "48.28%", "50.96%"], ["CD", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s", "12 s"], ["Energy Cost", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40"]
+                ]
+            },
+            "a1passive": {
+                "name": "Paradoxical Practice",
+                "description": "When Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for <b class=\"text-highlight\">Heartstopper Strike</b>. This effect can be triggered once every 0.1s."
+            },
+            "a4passive": {
+                "name": "Penetrative Reasoning",
+                "description": "After Heizou's <b class=\"text-highlight\">Heartstopper Strike</b> hits an opponent, increases all party members' (excluding Heizou) Elemental Mastery by 80 for 10s."
+            },
+            "utilpassive": {
+                "name": "Pre-Existing Guilt",
+                "description": "Decreases sprinting Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Cervus Minor",
+            "c1": {
+                "name": "Named Juvenile Casebook",
+                "description": "For 5s after Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for <b class=\"text-highlight\">Heartstopper Strike</b>. This effect can be triggered once every 10s."
+            },
+            "c2": {
+                "name": "Investigative Collection",
+                "description": "The pull effect of the Arresting Windtunnel created by <b class=\"text-highlight\">Windmuster Kick</b> is enhanced, and its duration is increased to 1s."
+            },
+            "c3": {
+                "name": "Esoteric Puzzle Book",
+                "description": "Increases the Level of <b class=\"text-highlight\">Heartstopper Strike</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Tome of Lies",
+                "description": "The first Windmuster Iris explosion in each <b class=\"text-highlight\">Windmuster Kick</b> will regenerate 9 Elemental Energy for Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.<br />One <b class=\"text-highlight\">Windmuster Kick</b> can regenerate a total of 13.5 Energy for Heizou in this manner."
+            },
+            "c5": {
+                "name": "Secret Archive",
+                "description": "Increases the Level of <b class=\"text-highlight\">Windmuster Kick</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Curious Casefiles",
+                "description": "Each Declension stack will increase the CRIT Rate of the <b class=\"text-highlight\">Heartstopper Strike</b> unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Anemo DMG Bonus",
+            "hp": [894, 2296, 2963, 4438, 4913, 5651, 6283, 7021, 7495, 8233, 8707, 9445, 9919, 10657],
+            "atk": [19, 48, 63, 94, 104, 119, 133, 148, 158, 174, 184, 200, 210, 225],
+            "def": [57, 147, 190, 285, 315, 363, 403, 451, 481, 528, 559, 606, 637, 684],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+        },
+        "materials": {
+            "talentBook": "Transience",
+            "bossMat": "Runic Fang",
+            "localMat": "Onikabuto",
+            "commonMat": "Treasure Hoarder Insignia",
+            "weeklyBossMat": "The Meaning of Aeons"
+        },
+        "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+        "birthday": "July 24",
+        "gender": "Male",
+        "nation": "Inazuma",
+        "voiceActors": {
+            "en": "Kieran Regan",
+            "jp": "Yūichi Iguchi (井口 祐一)"
+        },
+        "release": {
+            "date": "July 13, 2022",
+            "version": "2.8" 
+        }
     }
 ]
