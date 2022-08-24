@@ -5021,5 +5021,207 @@
             "date": "July 13, 2022",
             "version": "2.8" 
         }
+    },
+    {
+        "id": 50,
+        "name": "Collei",
+        "fullname": "",
+        "title": "Sprout of Rebirth",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Supplicant's Bowmanship",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal <b class=\"text-dendro\">Dendro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling an striking the ground, dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "43.6%", "47.15%", "50.7%", "55.77%", "59.32%", "63.38%", "68.95%", "74.53%", "80.11%", "86.19%", "92.27%", "98.36%", "104.44%", "110.53%", "116.61%"], ["2-Hit DMG", "42.66%", "46.13%", "49.6%", "54.56%", "58.03%", "62%", "67.46%", "72.91%", "78.37%", "84.32%", "90.27%", "96.22%", "102.18%", "108.13%", "114.08%"], ["3-Hit DMG", "54.09%", "58.5%", "62.9%", "69.19%", "73.59%", "78.62%", "85.54%", "92.46%", "99.38%", "106.93%", "114.48%", "122.03%", "129.57%", "137.12%", "144.67%"], ["4-Hit DMG", "68.03%", "73.56%", "79.1%", "87.01%", "92.55%", "98.87%", "107.58%", "116.28%", "124.98%", "134.47%", "143.96%", "153.45%", "162.95%", "172.44%", "181.93%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Floral Brush",
+                "description": "Throws out a Floral Ring that deals 1 instance of <b class=\"text-dendro\">Dendro DMG</b> to targets it comes into contact with.<br />The Floral Ring will return after a set time, dealing <b class=\"text-dendro\">Dendro DMG</b> once again.",
+                "scaling": [
+                    ["Skill DMG", "151.2%", "162.54%", "173.88%", "189%", "200.34%", "211.68%", "226.8%", "241.92%", "257.04%", "272.16%", "287.28%", "302.4%", "321.3%", "340.2%", "359.1%"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"]
+                ],
+                "splash": "This is Collei's go-to gadget for dealing with unruly wild beasts. A few good thwacks from this tool will generally improve their behavior. This same principle works just as well on evildoers."
+            },
+            "burst": {
+                "name": "Trump-Card Kitty",
+                "description": "Trusty Cuilein-Anbar comes to save the day!<br />Throws the doll named Cuilein-Anbar, causing an explosion that deals <b class=\"text-dendro\">AoE Dendro DMG</b>, creating a Cuilein-Anbar Zone. Cuilein-Anbar will bound around within this zone, dealing <b class=\"text-dendro\">AoE Dendro DMG</b>.",
+                "scaling": [
+                    ["Explosion DMG", "201.82%", "216.96%", "232.1%", "252.28%", "267.42%", "282.55%", "302.74%", "322.92%", "343.1%", "363.28%", "383.47%", "403.65%", "428.88%", "454.1%", "479.33%"], ["Leap DMG", "43.25%", "46.49%", "49.74%", "54.06%", "57.3%", "60.55%", "64.87%", "69.2%", "73.52%", "77.85%", "82.17%", "86.5%", "91.9%", "97.31%", "102.71%"], ["Duration", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"Pretty impressive, huh? ... Eh? You want to know how I came up with the name Cuilein-Anbar? Uh, well, I...\""
+            },
+            "a1passive": {
+                "name": "Floral Sidewinder",
+                "description": "If one of your party members has triggered Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions before the <b class=\"text-highlight\">Floral Ring</b> returns, it will grant the character the Sprout effect upon return, which will continuously deal <b class=\"text-dendro\">Dendro DMG</b> equivalent to 40% of Collei's ATK to nearby opponents for 3s.<br />If another Sprout effect is triggered during its initial duration, the initial effect will be removed."
+            },
+            "a4passive": {
+                "name": "The Languid Wood",
+                "description": "When a character within the <b class=\"text-highlight\">Cuilein-Anbar Zone</b> triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1s.<br />A single <b class=\"text-highlight\">Trump-Card Kitty</b> can be extended by up to 3s."
+            },
+            "utilpassive": {
+                "name": "Gliding Champion of Sumeru",
+                "description": "Decreases gliding Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Leptailurus Cervarius",
+            "c1": {
+                "name": "Deepwood Patrol",
+                "description": "When in the party and not on the field, Collei's Energy Recharge is increased by 20%."
+            },
+            "c2": {
+                "name": "Through Hill and Copse",
+                "description": "The Passive Talent Floral Sidewinder is changed to this:<br />The <b class=\"text-highlight\">Floral Ring</b> will grant the character the Sprout effect from Floral Sidewinder upon return, dealing 40% of Collei's ATK as <b class=\"text-dendro\">Dendro DMG</b> to nearby opponents for 3s.<br />From the moment of using <b class=\"text-highlight\">Floral Brush</b> to the moment when this instance of Sprout effect ends, if any of your party members triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Sprout effect will be extended by 3s.<br />The Sprout effect can only be extended this way once. If another Sprout effect is triggered during its initial duration, the initial effect will be removed.<br />Requires you to have unlocked the Floral Sidewinder Passive Talent."
+            },
+            "c3": {
+                "name": "Scent of Summer",
+                "description": "Increases the Level of <b class=\"text-highlight\">Floral Brush</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Gift of the Woods",
+                "description": "Using <b class=\"text-highlight\">Trump-Card Kitty</b> will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself)."
+            },
+            "c5": {
+                "name": "All Embers",
+                "description": "Increases the Level of <b class=\"text-highlight\">Trump-Card Kitty</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Forest of Falling Arrow",
+                "description": "When the <b class=\"text-highlight\">Floral Ring</b> hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as Dendro DMG.<br />Each <b class=\"text-highlight\">Floral Brush</b> can only create one such miniature Cuilein-Anbar."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK%",
+            "hp": [821, 2108, 2721, 4076, 4512, 5189, 5770, 6448, 6884, 7561, 7996, 8674, 9110, 9787],
+            "atk": [17, 43, 56, 83, 92, 106, 118, 132, 140, 154, 163, 177, 186, 200],
+            "def": [50, 129, 167, 250, 277, 318, 354, 396, 422, 464, 491, 532, 559, 601],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+        },
+        "materials": {
+            "talentBook": "Praxis",
+            "bossMat": "Majestic Hooked Beak",
+            "localMat": "Rukkhashava Mushrooms",
+            "commonMat": "Arrow",
+            "weeklyBossMat": "Tears of the Calamitous God"
+        },
+        "description": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+        "birthday": "May 8",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Christina Costello",
+            "jp": "Ryoko Maekawa (前川 涼子)"
+        },
+        "release": {
+            "date": "August 24, 2022",
+            "version": "3.0" 
+        }
+    },
+    {
+        "id": 51,
+        "name": "Tighnari",
+        "fullname": "",
+        "title": "Verdant Strider",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Khanda Barrier-Buster",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an arrow carrying the power of flora that deals <b class=\"text-dendro\">Dendro DMG</b>.</li><li>Charge Level 2: Fires off a Wreath Arrow that deals <b class=\"text-dendro\">Dendro DMG</b>. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal <b class=\"text-dendro\">Dendro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "44.63%", "48.27%", "51.9%", "57.09%", "60.72%", "64.88%", "70.58%", "76.29%", "82%", "88.23%", "94.46%", "100.69%", "106.91%", "113.14%", "119.37%"], ["2-Hit DMG", "41.97%", "45.38%", "48.8%", "53.68%", "57.1%", "61%", "66.37%", "71.74%", "77.1%", "82.96%", "88.82%", "94.67%", "100.53%", "106.38%", "112.24%"], ["3-Hit DMG", "26.45%×2", "28.6%×2", "30.75%×2", "33.83%×2", "35.98%×2", "38.44%×2", "41.82%×2", "45.2%×2", "48.59%×2", "52.28%×2", "55.97%×2", "59.65%×2", "63.34%×2", "67.04%×2", "70.72%×2"], ["4-Hit DMG", "68.63%", "74.21%", "79.8%", "87.78%", "93.37%", "99.75%", "108.53%", "117.31%", "126.08%", "135.66%", "145.24%", "154.81%", "164.39%", "173.96%", "183.54%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Level 1 Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Wreath Arrow DMG", "87.2%", "93.74%", "100.28%", "109%", "115.54%", "122.08%", "130.8%", "139.52%", "148.24%", "156.96%", "165.68%", "174.4%", "185.3%", "196.2%", "207.1%"], ["Clusterbloom Arrow DMG", "38.6%", "41.5%", "44.39%", "48.25%", "51.14%", "54.04%", "57.9%", "61.76%", "65.62%", "69.48%", "73.34%", "77.2%", "82.02%", "86.85%", "91.68%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Vijnana-Phala Mine",
+                "description": "Tighnari throws a Vijnana Stormheart ahead that deals <b class=\"text-dendro\">AoE Dendro DMG</b>, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fire.<br />Additionally, Tighnari gains the Vijnana Penetrator effect, which will decrease the next Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.",
+                "scaling": [
+                    ["Skill DMG", "149.6%", "160.82%", "172.04%", "187%", "198.22%", "209.44%", "224.4%", "239.36%", "254.32%", "269.28%", "284.24%", "299.2%", "317.9%", "336.6%", "355.3%"], ["Vijnana-Khanda Field Duration", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s"], ["Vijnana Penetrator Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"]
+                ],
+                "splash": "\"If seeds wither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\""
+            },
+            "burst": {
+                "name": "Fashinoer's Tanglevine Shaft",
+                "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal <b class=\"text-dendro\">Dendro DMG</b>.<br />After they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal <b class=\"text-dendro\">Dendro DMG</b> on hit.",
+                "scaling": [
+                    ["Tanglevine Shaft DMG", "55.62%", "59.79%", "63.96%", "69.52%", "73.7%", "77.87%", "83.43%", "88.99%", "94.55%", "100.12%", "105.68%", "111.24%", "118.19%", "125.14%", "132.1%"], ["Secondary Tanglevine Shaft DMG", "67.98%", "73.08%", "78.18%", "84.97%", "90.07%", "95.17%", "101.97%", "108.77%", "115.57%", "122.36%", "129.16%", "135.96%", "144.46%", "152.95%", "161.45%"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Energy Cost", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40"]
+                ],
+                "splash": "\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\""
+            },
+            "a1passive": {
+                "name": "Keen Sight",
+                "description": "After Tighnari fires a <b class=\"text-highlight\">Wreath Arrow</b>, his Elemental Mastery is increased by 50 for 4s."
+            },
+            "a4passive": {
+                "name": "Scholarly Blade",
+                "description": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and <b class=\"text-highlight\">Fashioner's Tanglevine Shaft</b> DMG are increased by 0.06%.<br />The maximum DMG Bonus obtainable this way is 60%."
+            },
+            "utilpassive": {
+                "name": "Encyclopedic Knowledge",
+                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Sumeru</b> on the mini-map."
+            }
+        },
+        "constellation": {
+            "name": "Vulpes Zerda",
+            "c1": {
+                "name": "Beginnings Determined at the Roots",
+                "description": "Tighnari's Charged Attack CRIT Rate is increased by 15%."
+            },
+            "c2": {
+                "name": "Origins Known From the Stem",
+                "description": "When there are opponents within the Vijnana-Khanda Field created by <b class=\"text-highlight\">Vijnana-Phala Mine</b>, Tighnari gains 20% <b class=\"text-dendro\">Dendro DMG Bonus</b>.<br />The effect will last up to 6s if the field's duration ends or if it no longer has opponents within it."
+            },
+            "c3": {
+                "name": "Fortunes Read Amongst the Branches",
+                "description": "Increases the Level of <b class=\"text-highlight\">Fashioner's Tanglevine Shaft</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Withering Glimpsed in the Leaves",
+                "description": "When <b class=\"text-highlight\">Fashioner's Tanglevine Shaft</b> is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
+            },
+            "c5": {
+                "name": "Comprehension Amidst the Flowers",
+                "description": "Increases the Level of <b class=\"text-highlight\">Vijnana-Phala Mine</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Karma Adjudged From the Leaden Fruit",
+                "description": "<b class=\"text-highlight\">Wreath Arrow</b>'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Dendro DMG Bonus",
+            "hp": [845, 2191, 2915, 4362, 4877, 5611, 6297, 7038, 7553, 8301, 8816, 9573, 10087, 10850],
+            "atk": [21, 54, 72, 108, 120, 139, 155, 174, 186, 205, 218, 236, 249, 268],
+            "def": [49, 127, 169, 253, 283, 326, 366, 409, 439, 482, 512, 556, 586, 630],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Admonition",
+            "bossMat": "Majestic Hooked Beak",
+            "localMat": "Nilotpala Lotus",
+            "commonMat": "Fungi",
+            "weeklyBossMat": "The Meaning of Aeons"
+        },
+        "description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
+        "birthday": "December 29",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Elliot Gindi",
+            "jp": "Sanae Kobayashi (小林 沙苗)"
+        },
+        "release": {
+            "date": "August 24, 2022",
+            "version": "3.0" 
+        }
     }
 ]
