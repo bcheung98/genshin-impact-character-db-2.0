@@ -416,7 +416,7 @@
             },
             "skill": {
                 "name": "Spirit Blade: Chonghua's Layered Frost",
-                "description": "Chongyun strikes the ground with his greatsword, causing a <b class=\"text-cryo\">Cryo</b> explosion in a circular AoE in front of him that deals <b class=\"text-cryo\">Cryo DMG</b>.<br /><br />After a short delay, the cold air created by the <b class=\"text-cryo\">Cryo</b> explosion will coalesce into a Chonghua Frost Field, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with <b class=\"text-cryo\">Cryo</b>.",
+                "description": "Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals <b class=\"text-cryo\">Cryo DMG</b>.<br /><br />After a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with <b class=\"text-cryo\">Cryo</b>.",
                 "scaling": [
                     ["Skill DMG", "172.04%", "184.94%", "197.85%", "215.05%", "227.95%", "240.86%", "258.06%", "275.26%", "292.47%", "309.67%", "326.88%", "344.08%", "365.59%", "387.09%", "408.6%"], ["Infusion Duration", "2s", "2.1s", "2.2s", "2.3s", "2.4s", "2.5s", "2.6s", "2.7s", "2.8s", "2.9s", "3s", "3s", "3s", "3s", "3s"], ["Field Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"]
                 ],
@@ -424,7 +424,7 @@
             },
             "burst": {
                 "name": "Spirit Blade: Cloud-Parting Star",
-                "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.<br /><br />When the spirit blades explode, they will deal <b class=\"text-cryo\">AoE Cryo DMG</b> and launch opponents.",
+                "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.<br />When the spirit blades explode, they will deal <b class=\"text-cryo\">AoE Cryo DMG</b> and launch opponents.",
                 "scaling": [
                     ["Skill DMG", "142.4%", "153.08%", "163.76%", "178%", "188.68%", "199.36%", "213.6%", "227.84%", "242.08%", "256.32%", "270.56%", "284.8%", "302.6%", "320.4%", "338.2%"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Energy Cost", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40"]
                 ],
@@ -467,7 +467,7 @@
             },
             "c6": {
                 "name": "Rally of Four Blades",
-                "description": "<b class=\"text-highlight\">Spirit Blade: Cloud-Parting Star</b> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun."
+                "description": "<b class=\"text-highlight\">Spirit Blade: Cloud-Parting Star</b> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.<br />This skill will also summon 1 additional spirit blade."
             }
         },
         "stats": {
