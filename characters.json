@@ -5444,7 +5444,7 @@
             },
             "skill": {
                 "name": "Secret Rite: Chasmic Soulfarer",
-                "description": "Performs a swift thrust, dealing <b class=\"text-electro\">Electro DMG</b> to opponents along the path.<br /><br />When Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a <b class=\"text-highlight\">Mortuary Rite</b> that deals thunderous AoE Electro DMG and extends the duration of Pactsworn Pathclearer.",
+                "description": "Performs a swift thrust, dealing <b class=\"text-electro\">Electro DMG</b> to opponents along the path.<br /><br />When Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a <b class=\"text-highlight\">Mortuary Rite</b> that deals thunderous <b class=\"text-electro\">AoE Electro DMG</b> and extends the duration of Pactsworn Pathclearer.",
                 "scaling": [
                     ["Skill DMG", "130.4%", "140.18%", "149.96%", "163%", "172.78%", "182.56%", "195.6%", "208.64%", "221.68%", "234.72%", "247.76%", "260.8%", "277.1%", "293.4%", "309.7%"], ["Mortuary Rite DMG", "156.8%", "168.56%", "180.32%", "196%", "207.76%", "219.52%", "235.2%", "250.88%", "266.56%", "282.24%", "297.92%", "313.6%", "333.2%", "352.8%", "372.4%"], ["Pactsworn Pathclearer Duration Bonus", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["CD", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s"], ["Mortuary Rite CD", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s"]
                 ],
@@ -5479,7 +5479,7 @@
             },
             "c2": {
                 "name": "Ceremony: Homecoming of Spirits",
-                "description": "When Cyno's Normal Attacks hit opponents, his Normal Attack CRIT Rate and CRIT DMG will be increased by 3% and 6% respectively for 4s. This effect can be triggered once every 0.1s. Max 5 stacks. Each stack's duration is counted independently."
+                "description": "When Cyno's Normal Attacks hit opponents, his <b class=\"text-electro\">Electro DMG Bonus</b> will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks."
             },
             "c3": {
                 "name": "Precept: Lawful Enforcer",
@@ -5495,7 +5495,7 @@
             },
             "c6": {
                 "name": "Raiment: Just Scales",
-                "description": "After using <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b> or triggering Judication, Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to trigger one Duststalker Bolt. Day of the Jackal lasts for 8s. Max 8 stacks. 1 stack can be consumed every 0.4s. This effect will be canceled once Pactsworn Pathclearer ends.<br />You must unlock the Passive Talent \"Featherfall Judgment.\""
+                "description": "After using <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b> or triggering the Judication effect of the Passive Talent \"Featherfall Judgment\", Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to trigger one Duststalker Bolt.<br />\"Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends.<br />A maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.<br />You must unlock the Passive Talent \"Featherfall Judgment.\""
             }
         },
         "stats": {
