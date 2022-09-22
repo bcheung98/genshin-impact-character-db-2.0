@@ -5324,5 +5324,206 @@
             "date": "September 9, 2022",
             "version": "3.0" 
         }
+    },
+    {
+        "id": 53,
+        "name": "Candace",
+        "fullname": "",
+        "title": "Golden Vow",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Gleaming Spear - Guardian Stnace",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "60.8%", "65.75%", "70.7%", "77.77%", "82.72%", "88.38%", "96.15%", "103.93%", "111.71%", "120.19%", "128.67%", "137.16%", "145.64%", "154.13%", "162.61%"], ["2-Hit DMG", "61.15%", "66.12%", "71.1%", "78.21%", "83.19%", "88.88%", "96.7%", "104.52%", "112.34%", "120.87%", "129.4%", "137.93%", "146.47%", "155%", "163.53%"], ["3-Hit DMG", "35.49% + 43.37%", "38.38% + 46.9%", "41.26% + 50.44%", "45.39% + 55.48%", "48.28% + 59.01%", "51.58% + 63.04%", "56.12% + 68.59%", "60.66% + 74.14%", "65.2% + 79.69%", "70.15% + 85.74%", "75.1% + 91.79%", "80.05% + 97.84%", "85.01% + 103.9%", "89.96% + 109.95%", "94.91% + 116%"], ["4-Hit DMG", "94.94%", "102.67%", "110.4%", "121.44%", "129.17%", "138%", "150.14%", "162.29%", "174.43%", "187.68%", "200.93%", "214.18%", "227.42%", "240.67%", "253.92%"], ["Charged Attack DMG", "124.18%", "134.29%", "144.4%", "158.84%", "168.95%", "180.5%", "196.38%", "212.27%", "228.15%", "245.48%", "262.81%", "280.14%", "297.46%", "314.79%", "332.12%"], ["Charged Attack Stamina Cost", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Sacred Rite: Heron's Sanctum",
+                "description": "Candace's fighting style is capable of warding of an entire tide of foes.<br /><br /><b class=\"text-highlight\">Tap</b><br />Rushes forward with her shield, dealing <b class=\"text-hydro\">Hydro DMG</b>.<br /><br /><b class=\"text-highlight\">Hold</b><br />Raises her shield to block incoming attacks from nearby opponents, forming a barrier that absorbs DMG based on her Max HP and absorbs <b class=\"text-hydro\">Hydro DMG</b> 250% more effectively. This barrier lasts until the Elemental Skill is unleashed.<br />After holding for a certain period of time, Candace will finish charging, and when the skill button is released, the skill duration expires, or when the barrier is broken, she will perform a leaping strike that deals <b class=\"text-hydro\">Hydro DMG</b> to opponents in front of her.",
+                "scaling": [
+                    ["Shield DMG Absorption", "12% Max HP + 1155.56", "12.9% Max HP + 1271.14", "13.8% Max HP + 1396.34", "15% Max HP + 1531.17", "15.9% Max HP + 1675.64", "16.8% Max HP + 1829.73", "18% Max HP + 1993.46", "19.2% Max HP + 2166.82", "20.4% Max HP + 2349.81", "21.6% Max HP + 2542.43", "22.8% Max HP + 2744.68", "24% Max HP + 2956.57", "25.5% Max HP + 3178.08", "27% Max HP + 3409.22", "28.5% Max HP + 3650"], ["Basic DMG", "12% Max HP", "12.9% Max HP", "13.8% Max HP", "15% Max HP", "15.9% Max HP", "16.8% Max HP", "18% Max HP", "19.2% Max HP", "20.4% Max HP", "21.6% Max HP", "22.8% Max HP", "24% Max HP", "25.5% Max HP", "27% Max HP", "28.5% Max HP"], ["Charged Up DMG", "19.04% Max HP", "20.47% Max HP", "21.9% Max HP", "23.8% Max HP", "25.23% Max HP", "26.66% Max HP", "28.56% Max HP", "30.46% Max HP", "32.37% Max HP", "34.27% Max HP", "36.18% Max HP", "38.08% Max HP", "40.46% Max HP", "42.84% Max HP", "45.22% Max HP"], ["Press CD", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"], ["Holding CD", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s"]
+                ],
+                "splash": "The oath of the guardians is more stalwart yet than the shields they inherit."
+            },
+            "burst": {
+                "name": "Sacred Rite: Wagtail's Tide",
+                "description": "Raising her weapon on high, Candace calls upon a divine blessing that deals <b class=\"text-hydro\">AoE Hydro DMG</b> based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.<br /><br /><b class=\"text-highlight\">Prayer of the Crimson Crown</b><br />This effect has the following properties:<li>Characters deal increased Elemental DMG with their Normal Attacks.</li><li>Whenever a character takes the field, they will unleash a rippling wave of water that deals <b class=\"text-hydro\">Hydro DMG</b>  to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.</li><li>Sword, Claymore, and Polearm-wielding character(s) under this effect will obtain a <b class=\"text-hydro\">Hydro Infusion</b>.</li>",
+                "scaling": [
+                    ["Skill DMG", "6.61% Max HP", "7.11% Max HP", "7.6% Max HP", "8.26% Max HP", "8.76% Max HP", "9.25% Max HP", "9.92% Max HP", "10.58% Max HP", "11.24% Max HP", "11.9% Max HP", "12.56% Max HP", "13.22% Max HP", "14.05% Max HP", "14.87% Max HP", "15.7% Max HP"], ["Duration", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s"], ["DMG Bonus", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%", "20%"], ["Wave Impact DMG", "6.61% Max HP", "7.11% Max HP", "7.6% Max HP", "8.26% Max HP", "8.76% Max HP", "9.25% Max HP", "9.92% Max HP", "10.58% Max HP", "11.24% Max HP", "11.9% Max HP", "12.56% Max HP", "13.22% Max HP", "14.05% Max HP", "14.87% Max HP", "15.7% Max HP"], ["Wave Instances", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3", "3"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "This secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm."
+            },
+            "a1passive": {
+                "name": "Featherflow Guard",
+                "description": "If Candace is hit by an attack in the Hold duration of <b class=\"text-highlight\">Sacred Rite: Heron's Sanctum</b>, that skill will finish charging instantly."
+            },
+            "a4passive": {
+                "name": "Sand Arch",
+                "description": "Characters affected by the Prayer of the Crimson Crown caused by <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks."
+            },
+            "utilpassive": {
+                "name": "To Dawn's First Light",
+                "description": "Decreases climbing Stamina consumption for your own party members by 20%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Sagitta Scutum",
+            "c1": {
+                "name": "Returning Heir of the Scarlet Sands",
+                "description": "The duration of Prayer of the Crimson Crown effect triggered by <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> is increased by 3s."
+            },
+            "c2": {
+                "name": "Moon-Piercing Brilliance",
+                "description": "When <b class=\"text-highlight\">Sacred Rite: Heron's Guard</b> hits opponents, Candace's Max HP will be increased by 20% for 15s."
+            },
+            "c3": {
+                "name": "Hunter's Supplication",
+                "description": "Increases the Level of <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Sentinel Oath",
+                "description": "Shortens the Hold CD of <b class=\"text-highlight\">Sacred Rite: Heron's Guard</b> to be the same as that of the Tapping CD."
+            },
+            "c5": {
+                "name": "Golden Eye",
+                "description": "Increases the Level of <b class=\"text-highlight\">Sacred Rite: Heron's Guard</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "The Overflow",
+                "description": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals <b class=\"text-hydro\">AoE Hydro DMG</b> equal to 20.93% of Candace's Max HP.<br />This effect can trigger once every 2.3s and is considered Elemental Burst DMG."
+            }
+        },
+        "stats": {
+            "ascensionStat": "HP%",
+            "hp": [912, 2342, 3024, 4529, 5013, 5766, 6411, 7164, 7648, 8401, 8885, 9638, 10122, 10875],
+            "atk": [18, 46, 59, 88, 98, 113, 125, 140, 149, 164, 174, 188, 198, 212],
+            "def": [57, 147, 190, 284, 315, 362, 402, 450, 480, 527, 558, 605, 635, 683],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+        },
+        "materials": {
+            "talentBook": "Admonition",
+            "bossMat": "Light Guiding Tetrahedron",
+            "localMat": "Redcrest",
+            "commonMat": "Headband",
+            "weeklyBossMat": "Tears of the Calamitous God"
+        },
+        "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+        "birthday": "May 3",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Shara Kirby",
+            "jp": "Yuzuki Ryoka (柚木 涼香)"
+        },
+        "release": {
+            "date": "September 28, 2022",
+            "version": "3.1" 
+        }
+    },
+    {
+        "id": 54,
+        "name": "Cyno",
+        "fullname": "",
+        "title": "Judicator of Secrets",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Invoker's Spear",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "49.26%", "53.27%", "57.28%", "63%", "67.01%", "71.6%", "77.9%", "84.2%", "90.5%", "97.37%", "104.24%", "111.12%", "117.99%", "124.86%", "131.73%"], ["2-Hit DMG", "47.92%", "51.82%", "55.72%", "61.29%", "65.19%", "69.65%", "75.78%", "81.91%", "88.04%", "94.73%", "101.41%", "108.1%", "114.79%", "121.47%", "128.16%"], ["3-Hit DMG", "29.31% + 29.31%", "31.69% + 31.69%", "34.08% + 34.08%", "37.48% + 37.48%", "39.87% + 39.87%", "42.6% + 42.6%", "46.34% + 46.34%", "50.09% + 50.09%", "53.84% + 53.84%", "57.93% + 57.93%", "62.02% + 62.02%", "66.11% + 66.11%", "70.2% + 70.2%", "74.29% + 74.29%", "78.38% + 78.38%"], ["4-Hit DMG", "75.89%", "82.07%", "88.24%", "97.07%", "103.25%", "110.31%", "120.01%", "129.72%", "139.43%", "150.02%", "160.61%", "171.2%", "181.78%", "192.37%", "202.96%"], ["Charged Attack DMG", "122.38%", "132.34%", "142.3%", "156.53%", "166.49%", "177.87%", "193.53%", "209.18%", "224.83%", "241.91%", "258.99%", "276.06%", "293.14%", "310.21%", "327.29%"], ["Charged Attack Stamina Cost", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Secret Rite: Chasmic Soulfarer",
+                "description": "Performs a swift thrust, dealing <b class=\"text-electro\">Electro DMG</b> to opponents along the path.<br /><br />When Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a <b class=\"text-highlight\">Mortuary Rite</b> that deals thunderous AoE Electro DMG and extends the duration of Pactsworn Pathclearer.",
+                "scaling": [
+                    ["Skill DMG", "130.4%", "140.18%", "149.96%", "163%", "172.78%", "182.56%", "195.6%", "208.64%", "221.68%", "234.72%", "247.76%", "260.8%", "277.1%", "293.4%", "309.7%"], ["Mortuary Rite DMG", "156.8%", "168.56%", "180.32%", "196%", "207.76%", "219.52%", "235.2%", "250.88%", "266.56%", "282.24%", "297.92%", "313.6%", "333.2%", "352.8%", "372.4%"], ["Pactsworn Pathclearer Duration Bonus", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["CD", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s"], ["Mortuary Rite CD", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s"]
+                ],
+                "splash": "\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\""
+            },
+            "burst": {
+                "name": "Sacred Rite: Wolf's Swiftness",
+                "description": "Calls upon a divine spirit to possess him, morphing into the Pactsworn Pathclearer.<br /><br /><b class=\"text-highlight\">Pactsworn Pathclearer</b><li>Cyno's Normal, Charged, and Plunging Attacks will be converted to <b class=\"text-electro\">Electro DMG</b> that cannot be overriden.</li><li>Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to <b class=\"text-electro\">Electro-Charged DMG</b>.</li><br />This effect will be cancelled when Cyno leaves the field and lasts a maximum of 18s.",
+                "scaling": [
+                    ["1-Hit DMG", "78.28%", "84.66%", "91.03%", "100.13%", "106.5%", "113.78%", "123.8%", "133.81%", "143.82%", "154.75%", "165.67%", "176.59%", "187.52%", "198.44%", "209.36%"], ["2-Hit DMG", "82.47%", "89.18%", "95.89%", "105.48%", "112.2%", "119.87%", "130.42%", "140.96%", "151.51%", "163.02%", "174.53%", "186.03%", "197.54%", "209.05%", "220.56%"], ["3-Hit DMG", "104.63%", "113.15%", "121.67%", "133.83%", "142.35%", "152.08%", "165.47%", "178.85%", "192.23%", "206.83%", "221.43%", "236.03%", "250.63%", "265.23%", "279.83%"], ["4-Hit DMG", "51.69% + 51.69%", "55.9% + 55.9%", "60.11% + 60.11%", "66.12% + 66.12%", "70.33% + 70.33%", "75.14% + 75.14%", "81.75% + 81.75%", "88.36% + 88.36%", "94.97% + 94.97%", "102.19% + 102.19%", "109.4% + 109.4%", "116.61% + 116.61%", "123.83% + 123.83%", "131.04% + 131.04%", "138.25% + 138.25%"], ["5-Hit DMG", "130.84%", "141.49%", "152.15%", "167.36%", "178.01%", "190.18%", "206.92%", "223.65%", "240.39%", "258.65%", "276.9%", "295.16%", "313.42%", "331.68%", "349.93%"], ["Charged Attack DMG", "101.05%", "109.27%", "117.5%", "129.25%", "137.48%", "146.88%", "159.8%", "172.72%", "185.65%", "199.75%", "213.85%", "227.95%", "242.05%", "256.15%", "270.25%"], ["Charged Attack Stamina Cost", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"], ["Elemental Mastery Bonus", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100"], ["Basic Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "The secret rituals passed down within the ancient nation are as a final judgment to the General Mahamatra.<br />Whether now or in the past, whether great storm or serpent, none shall shake the majesty of the law."
+            },
+            "a1passive": {
+                "name": "Featherfall Judgement",
+                "description": "When Cyno is in the Pactsworn Pathclearer state activated by <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b>, Cyno will enter the Endseer stance at intervals. If he activates <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> whle affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as <b class=\"text-electro\">Electro DMG</b>.<br />Duststalker Bolt DMG is considered Elemental Skill DMG."
+            },
+            "a4passive": {
+                "name": "Authority Over the Nine Bows",
+                "description": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:<li>Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.</li><li>Duststalker Bolt DMG from his Ascension Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.</li>"
+            },
+            "utilpassive": {
+                "name": "The Gift of Silence",
+                "description": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
+            }
+        },
+        "constellation": {
+            "name": "Lupus Aureus",
+            "c1": {
+                "name": "Ordinance: Unceasing Vigil",
+                "description": "After using <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b>, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of the Ascension Talent Featherfall Judgment is triggered during <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b>, the duration of this increase will be refreshed.<br />You need to unlock the Passive Talent \"Featherfall Judgment.\""
+            },
+            "c2": {
+                "name": "Ceremony: Homecoming of Spirits",
+                "description": "When Cyno's Normal Attacks hit opponents, his Normal Attack CRIT Rate and CRIT DMG will be increased by 3% and 6% respectively for 4s. This effect can be triggered once every 0.1s. Max 5 stacks. Each stack's duration is counted independently."
+            },
+            "c3": {
+                "name": "Precept: Lawful Enforcer",
+                "description": "Increases the Level of <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Austerity: Forbidding Guard",
+                "description": "When Cyno is in the Pactsworn Pathclearer state triggered by <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b>, after he triggers Electro-Charged, Overloaded, Quicken, Hyperbloom, an Electro Swirl or an Electro Crystallization reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)<br />This effect can occur 5 times within one use of <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b>."
+            },
+            "c5": {
+                "name": "Funerary Rite: The Passing of Starlight",
+                "description": "Increases the Level of <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Raiment: Just Scales",
+                "description": "After using <b class=\"text-highlight\">Sacred Rite: Wolf's Swiftness</b> or triggering Judication, Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to trigger one Duststalker Bolt. Day of the Jackal lasts for 8s. Max 8 stacks. 1 stack can be consumed every 0.4s. This effect will be canceled once Pactsworn Pathclearer ends.<br />You must unlock the Passive Talent \"Featherfall Judgment.\""
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT DMG",
+            "hp": [972, 2522, 3356, 5022, 5614, 6459, 7249, 8103, 8695, 9557, 10149, 11020, 11613, 12491],
+            "atk": [25, 64, 85, 128, 143, 164, 185, 206, 221, 243, 258, 281, 296, 318],
+            "def": [67, 174, 231, 345, 386, 444, 499, 557, 598, 657, 698, 758, 799, 859],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 59.6, 59.6, 69.2, 69.2, 69.2, 69.2, 78.8, 78.8, 88.4, 88.4]
+        },
+        "materials": {
+            "talentBook": "Admonition",
+            "bossMat": "Thunderclap Fruitcore",
+            "localMat": "Scarab",
+            "commonMat": "Scroll",
+            "weeklyBossMat": "Mudra of the Malefic General"
+        },
+        "description": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
+        "birthday": "June 23",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Alejandro Saab",
+            "jp": "Irino Miyu (入野 自由)"
+        },
+        "release": {
+            "date": "September 28, 2022",
+            "version": "3.1" 
+        }
     }
 ]
