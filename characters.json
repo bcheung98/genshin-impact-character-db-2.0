@@ -5358,11 +5358,11 @@
                 "splash": "This secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm."
             },
             "a1passive": {
-                "name": "Featherflow Guard",
+                "name": "Aegis of Crossed Arrows",
                 "description": "If Candace is hit by an attack in the Hold duration of <b class=\"text-highlight\">Sacred Rite: Heron's Sanctum</b>, that skill will finish charging instantly."
             },
             "a4passive": {
-                "name": "Sand Arch",
+                "name": "Celestial Dome of Sand",
                 "description": "Characters affected by the Prayer of the Crimson Crown caused by <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks."
             },
             "utilpassive": {
@@ -5373,7 +5373,7 @@
         "constellation": {
             "name": "Sagitta Scutum",
             "c1": {
-                "name": "Returning Heir of the Scarlet Sands",
+                "name": "Returning Heiress of the Scarlet Sands",
                 "description": "The duration of Prayer of the Crimson Crown effect triggered by <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> is increased by 3s."
             },
             "c2": {
@@ -5389,7 +5389,7 @@
                 "description": "Shortens the Hold CD of <b class=\"text-highlight\">Sacred Rite: Heron's Guard</b> to be the same as that of the Tapping CD."
             },
             "c5": {
-                "name": "Golden Eye",
+                "name": "Heterochromatic Gaze",
                 "description": "Increases the Level of <b class=\"text-highlight\">Sacred Rite: Heron's Guard</b> by 3.<br />Maximum upgrade level is 15."
             },
             "c6": {
