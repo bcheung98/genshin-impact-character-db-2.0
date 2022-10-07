@@ -5525,5 +5525,106 @@
             "date": "September 28, 2022",
             "version": "3.1" 
         }
+    },
+    {
+        "id": 55,
+        "name": "Nilou",
+        "fullname": "",
+        "title": "Dance of Lotuslight",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Dance of Samser",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 consecutive sword strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to perform a twirling slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "50.31%", "54.4%", "58.5%", "64.35%", "68.44%", "73.12%", "79.56%", "85.99%", "92.43%", "99.44%", "106.46%", "113.48%", "120.5%", "127.52%", "134.54%"], ["2-Hit DMG", "45.44%", "49.14%", "52.84%", "58.12%", "61.82%", "66.04%", "71.86%", "77.67%", "83.48%", "89.82%", "96.16%", "102.5%", "108.84%", "115.18%", "121.52%"], ["3-Hit DMG", "70.35%", "76.08%", "81.81%", "89.99%", "95.71%", "102.26%", "111.26%", "120.26%", "129.26%", "139.07%", "148.89%", "158.71%", "168.52%", "178.34%", "188.16%"], ["Charged Attack DMG", "50.22% + 54.44%", "54.31% + 58.87%", "58.4% + 63.3%", "64.24% + 69.63%", "68.33% + 74.06%", "73% + 79.12%", "79.42% + 86.09%", "85.85% + 93.05%", "92.27% + 100.01%", "99.28% + 107.61%", "106.29% + 115.21%", "113.3% + 122.8%", "120.3% + 130.4%", "127.31% + 137.99%", "134.32% + 145.59%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Dance of Haftkarsvar",
+                "description": "Enters the Pirouette state, dealing <b class=\"text-hydro\">Hydro DMG</b> to nearby opponents based on Nilou's Max HP.<br />While she is in the Pirouette state, Nilou's Normal Attacks and Elemental Attacks will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to <b class=\"text-hydro\">Hydro DMG</b> that cannot be overridden and that is considered Elemental Skill DMG.<br /><br />In these stances, Nilou's third dance step will end Pirouette, and has the following effects based on the type of said dance step:<li>Sword Dance: unleashes a Luminous Illusion that deals <b class=\"text-hydro\">Hydro DMG</b> to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a Luminous Illusion.</li><li>Whirling Steps: Nilou unleashes a Whirling Water Wheel that deals <b class=\"text-hydro\">AoE Hydro DMG</b> and creates a Tranquility Aura that follows your active character around and applies <b class=\"text-hydro\">Wet</b> to opponents within its AoE.</li><br />Nilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer. These effects will be removed once she leaves the field.",
+                "scaling": [
+                    ["Skill DMG", "3.34% Max HP", "3.59% Max HP", "3.84% Max HP", "4.17% Max HP", "4.42% Max HP", "4.67% Max HP", "5.01% Max HP", "5.34% Max HP", "5.68% Max HP", "6.01% Max HP", "6.34% Max HP", "6.68% Max HP", "7.1% Max HP", "7.51% Max HP", "7.93% Max HP"], ["Sword Dance/Whirling Steps 1-Hit DMG", "4.55% / 3.26% Max HP", "4.89% / 3.51% Max HP", "5.24% / 3.75% Max HP", "5.69% / 4.08% Max HP", "6.03% / 4.32% Max HP", "6.37% / 4.57% Max HP", "6.83% / 4.89% Max HP", "7.28% / 5.22% Max HP", "7.74% / 5.55% Max HP", "8.19% / 5.87% Max HP", "8.65% / 6.2% Max HP", "9.1% / 6.52% Max HP", "9.67% / 6.93% Max HP", "10.24% / 7.34% Max HP", "10.81% / 7.75% Max HP"], ["Sword Dance/Whirling Steps 2-Hit DMG", "5.14% / 3.96% Max HP", "5.53% / 4.26% Max HP", "5.92% / 4.55% Max HP", "6.43% / 4.95% Max HP", "6.82% / 5.25% Max HP", "7.2% / 5.54% Max HP", "7.72% / 5.94% Max HP", "8.23% / 6.34% Max HP", "8.75% / 6.73% Max HP", "9.26% / 7.13% Max HP", "9.77% / 7.52% Max HP", "10.29% / 7.92% Max HP", "10.93% / 8.42% Max HP", "11.58% / 8.91% Max HP", "12.22% / 9.41% Max HP"], ["Luminous Illusion/Water Wheel DMG", "7.17% / 5.06% Max HP", "7.71% / 5.44% Max HP", "8.24% / 5.82% Max HP", "8.96% / 6.33% Max HP", "9.5% / 6.71% Max HP", "10.04% / 7.09% Max HP", "10.75% / 7.59% Max HP", "11.47% / 8.1% Max HP", "12.19% / 8.6% Max HP", "12.9% / 9.11% Max HP", "13.62% / 9.62% Max HP", "14.34% / 10.12% Max HP", "15.23% / 10.76% Max HP", "16.13% / 11.39% Max HP", "17.03% / 12.02% Max HP"], ["Pirouette Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["Lunar Prayer Duration", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s"], ["Tranquility Aura Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"]
+                ],
+                "splash": "\"Daintily her toes touch the water's face, and the light that ripples forth equals even the seven heavens.\""
+            },
+            "burst": {
+                "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+                "description": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing <b class=\"text-hydro\">AoE Hydro DMG</b> based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit.<br />After an interval, opponents affected by Lingering Aeon will take <b class=\"text-hydro\">Hydro DMG</b>.",
+                "scaling": [
+                    ["Skill DMG", "18.43% Max HP", "19.81% Max HP", "21.2% Max HP", "23.04% Max HP", "24.42% Max HP", "25.8% Max HP", "27.65% Max HP", "29.49% Max HP", "31.33% Max HP", "33.18% Max HP", "35.02% Max HP", "36.86% Max HP", "39.17% Max HP", "41.47% Max HP", "43.78% Max HP"], ["Lingering Aeon DMG", "22.53% Max HP", "24.22% Max HP", "25.91% Max HP", "28.16% Max HP", "29.85% Max HP", "31.54% Max HP", "33.79% Max HP", "36.04% Max HP", "38.3% Max HP", "40.55% Max HP", "42.8% Max HP", "45.06% Max HP", "47.87% Max HP", "50.69% Max HP", "53.5% Max HP"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "\"We have never witnessed that distant dream, but this dance can bring it to life.\""
+            },
+            "a1passive": {
+                "name": "Court of Dancing Petals",
+                "description": "When all characters in the party all <b class=\"text-dendro\">Dendro</b> or <b class=\"text-hydro\">Hydro</b>, and there is at least one Dendro character and one Hydro character:<br />The completion of the third dance step of Nilou's <b class=\"text-highlight\">Dance of Haftkarsvar</b> will grant all nearby characters the Golden Chalice's Bounty for 30s upon its completion.<br />Characters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by <b class=\"text-dendro\">Dendro attacks</b>. Also, triggering the Bloom reaction will create Bountiful Cores instead of Dendro Cores.<br />Such Cores will burst very quickly after being created, and they have larger AoEs.<br />Bountiful Cores cannot trigger Hyperbloom or Burgeon, and they share a upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.<br />Should the party not meet the conditions for this Passive Talent, any existing Golden Chalice's Bounty effects will be canceled."
+            },
+            "a4passive": {
+                "name": "Dreamy Dance of Aeons",
+                "description": "Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.<br />The maximum increase in Bountiful Core DMG that can be achieved this way is 400%."
+            },
+            "utilpassive": {
+                "name": "White Jade Lotus",
+                "description": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
+            }
+        },
+        "constellation": {
+            "name": "Lotos Somno",
+            "c1": {
+                "name": "Dance of the Waning Moon",
+                "description": "<b class=\"text-highlight\">Dance of Haftkarsvar</b> will be enhanced as follows:<li>Luminous Illusion DMG is increased by 65%.</li><li>The Tranquility Aura's duration is extended by 6s.</li>"
+            },
+            "c2": {
+                "name": "The Starry Skies Their Flowers Rain",
+                "description": "After characters affected by the Golden Chalice's Bounty deal <b class=\"text-hydro\">Hydro DMG</b>  to opponents, that opponent's <b class=\"text-hydro\">Hydro RES</b>  will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their <b class=\"text-dendro\">Dendro RES</b> will be decreased by 35% for 10s.<br />You need to have unlocked the \"Court of Dancing Petals\" Talent."
+            },
+            "c3": {
+                "name": "Beguiling Shadowstep",
+                "description": "Increases the Level of <b class=\"text-highlight\">Dance of Abzendegi: Distant Dreams, Listening Spring</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Fricative Pulse",
+                "description": "After the third dance step of <b class=\"text-highlight\">Dance of Haftkarsvar</b>'s Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her <b class=\"text-highlight\">Dance of Abzendegi: Distant Dreams, Listening Spring</b> will be increased by 50% for 8s."
+            },
+            "c5": {
+                "name": "Twirling Light",
+                "description": "Increases the Level of <b class=\"text-highlight\">Dance of Haftkarsvar</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Frostbreaker's Melody",
+                "description": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.<br />The maximum increase in CRIT Rate and CRIT DMG is 30% and 60% respectively."
+            }
+        },
+        "stats": {
+            "ascensionStat": "HP%",
+            "hp": [1182, 3066, 4080, 6105, 6825, 7852, 8813, 9850, 10571, 11618, 12338, 13397, 14117, 15185],
+            "atk": [18, 46, 62, 92, 103, 119, 133, 149, 160, 176, 187, 203, 213, 230],
+            "def": [57, 147, 196, 293, 327, 377, 423, 473, 507, 557, 592, 643, 677, 729],
+            "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+        },
+        "materials": {
+            "talentBook": "Praxis",
+            "bossMat": "Perpetual Caliber",
+            "localMat": "Padisarah",
+            "commonMat": "Fungi",
+            "weeklyBossMat": "Tears of the Calamitous God"
+        },
+        "description": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+        "birthday": "December 3",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Dani Chambers",
+            "jp": "Hisako Kanemoto (金元 寿子)"
+        },
+        "release": {
+            "date": "October 15, 2022",
+            "version": "3.1" 
+        }
     }
 ]
