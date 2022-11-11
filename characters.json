@@ -5727,5 +5727,106 @@
             "date": "November 2, 2022",
             "version": "3.2" 
         }
+    },
+    {
+        "id": 57,
+        "name": "Layla",
+        "fullname": "",
+        "title": "Fantastical Evening Star",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Sword of the Radiant Path",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "51.22%", "55.39%", "59.56%", "65.51%", "69.68%", "74.44%", "80.99%", "87.55%", "94.1%", "101.24%", "108.39%", "115.54%", "122.68%", "129.83%", "136.98%"], ["2-Hit DMG", "48.48%", "52.43%", "56.38%", "62.01%", "65.96%", "70.47%", "76.67%", "82.87%", "89.07%", "95.84%", "102.6%", "109.37%", "116.13%", "122.9%", "129.66%"], ["3-Hit DMG", "72.97%", "78.91%", "84.85%", "93.34%", "99.28%", "106.07%", "115.4%", "124.73%", "134.07%", "144.25%", "154.43%", "164.61%", "174.8%", "184.98%", "195.16%"], ["Charged Attack DMG", "47.73% + 52.55%", "51.61% + 56.82%", "55.5% + 61.1%", "61.05% + 67.21%", "64.93% + 71.49%", "69.38% + 76.38%", "75.48% + 83.1%", "81.59% + 89.82%", "87.69% + 96.54%", "94.35% + 103.87%", "101.01% + 111.2%", "107.67% + 118.53%", "114.33% + 125.87%", "120.99% + 133.2%", "127.65% + 140.53%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Nights of Formal Focus",
+                "description": "Puts forth a shield known as the Curtain of Slumber, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.<br />The Curtain of Slumber's DMG Absorption is based on Layla's Max HP and absorbs <b class=\"text-cryo\">Cryo DMG</b> with 250% effectiveness. When the shield is deployed, Layla will have <b class=\"text-cryo\">Cryo</b> applied to her briefly.<br /><br /><b class=\"text-highlight\">Night Stars and Shooting Stars</b><br />While the Curtain of Slumber is active, it will create 1 Night Star that will be attached to it every 1.5s. When a character protected by this shield uses an Elemental Skill, 2 Night Stars will be created. Night Stars can be created once every 0.3s in this way. A maximum of 4 Night Stars can be accumulated at any one time.<br />Once the Curtain of Slumber has accumulated 4 Night Stars and there are opponents nearby, these Night Stars will transform into homing Shooting Stars that will be fired off in sequence, dealing <b class=\"text-cryo\">Cryo DMG</b> to any opponents hit.<br />If the Curtain of Slumber's duration ends or it is destroyed, the Night Stars will disappear. If they are already being fired off as Shooting Stars, these Shooting Stars will last until this wave of shots ends.<br /><br />New Night Stars cannot be created until the previous wave of Shooting Stars has been fired completely.",
+                "scaling": [
+                    ["Skill DMG", "12.8%", "13.76%", "14.72%", "16%", "16.96%", "17.92%", "19.2%", "20.48%", "21.76%", "23.04%", "24.32%", "25.6%", "27.2%", "28.8%", "30.4%"], ["Shooting Star DMG", "14.72%", "15.82%", "16.93%", "18.4%", "19.5%", "20.61%", "22.08%", "23.55%", "25.02%", "26.5%", "27.97%", "29.44%", "31.28%", "33.12%", "34.96%"], ["Base Shield DMG Absorption", "10.8% Max HP + 1040.01", "11.61% Max HP + 1144.02", "12.42% Max HP + 1256.71", "13.5% Max HP + 1378.06", "14.31% Max HP + 1508.08", "15.12% Max HP + 1646.76", "16.2% Max HP + 1794.12", "17.28% Max HP + 1950.14", "18.36% Max HP + 2114.83", "19.44% Max HP + 2288.19", "20.52% Max HP + 2470.22", "21.6% Max HP + 2660.91", "22.95% Max HP + 2860.27", "24.3% Max HP + 3068.3", "25.65% Max HP + 3285"], ["Shield Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"]
+                ],
+                "splash": "\"She and I are like two master artisans who have never met, yet who sit at the same cushioned seat, embroidering the same dream-flower.\""
+            },
+            "burst": {
+                "name": "Dream of the Star-Stream Shaker",
+                "description": "Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing <b class=\"text-cryo\">Cryo DMG</b>.<br />When a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.",
+                "scaling": [
+                    ["Starlight Slug DMG", "4.65% Max HP", "5% Max HP", "5.35% Max HP", "5.81% Max HP", "6.16% Max HP", "6.51% Max HP", "6.97% Max HP", "7.44% Max HP", "7.9% Max HP", "8.37% Max HP", "8.83% Max HP", "9.3% Max HP", "9.88% Max HP", "10.46% Max HP", "11.04% Max HP"], ["Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Energy Cost", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40", "40"]
+                ],
+                "splash": "\"Sleep now, sleep now; and may many destinies be revealed before your slumbering eyes, within your star-paved dreams.\""
+            },
+            "a1passive": {
+                "name": "Like Nascent Light",
+                "description": "While the <b class=\"text-highlight\">Curtain of Slumber</b> is active, the Deep Sleep effect will activate each time the Curtain gains a Night Star:<li>The Shield Strength of a character under the effect of the Curtain of Slumber increases by 6%.</li><li>This effect can have a maximum of 4 stacks and persists until the Curtain of Slumber disappears.</li>"
+            },
+            "a4passive": {
+                "name": "Sweet Slumber Undisturbed",
+                "description": "The DMG dealt by the Shooting Stars fired by <b class=\"text-highlight\">Nights of Formal Focus</b> is increased by 1.5% of Layla's Max HP."
+            },
+            "utilpassive": {
+                "name": "Shadowy Dream-Signs",
+                "description": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product."
+            }
+        },
+        "constellation": {
+            "name": "Luscinia",
+            "c1": {
+                "name": "Fortress of Fantasy",
+                "description": "The Shield Absorption of the Curtain of Slumber generated by <b class=\"text-highlight\">Nights of Formal Focus</b> is increased by 20%.<br />Additionally, when unleashing Nights of Formal Focus, she will generate a shield for any nearby party members who are not being protected by a Curtain of Slumber. This shield will have 35% of the absorption of a Curtain of Slumber, will last for 12s, and will absorb <b class=\"text-cryo\">Cryo DMG</b> with 250% effectiveness."
+            },
+            "c2": {
+                "name": "Light's Remit",
+                "description": "When Shooting Stars from <b class=\"text-highlight\">Nights of Formal Focus</b> strike opponents, they will each restore 1 Energy to Layla. Each Shooting Star can restore Energy to her in this manner once."
+            },
+            "c3": {
+                "name": "Secrets of the Night",
+                "description": "Increases the Level of <b class=\"text-highlight\">Nights of Formal Focus</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Starry Illumination",
+                "description": "When <b class=\"text-highlight\">Nights of Formal Focus</b> starts to fire off Shooting Stars, it will grant all nearby party members the Dawn Star effect, causing their Normal and Charged Attack DMG to increase based on 5% of Layla's Max HP.<br />Dawn Star can last up to 3s and will be removed 0.05s after dealing Normal or Charged Attack DMG."
+            },
+            "c5": {
+                "name": "Stream of Consciousness",
+                "description": "Increases the Level of <b class=\"text-highlight\">Dream of the Star-Stream Shaker</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Radiant Soulfire",
+                "description": "Shooting Stars from <b class=\"text-highlight\">Nights of Formal Focus</b> deal 40% increased DMG, and Starlight Slugs from <b class=\"text-highlight\">Dream of the Star-Stream Shaker</b> deal 40% increased DMG.<br />Additionally, the interval between the creation of Night Stars via Nights of Formal Focus is decreased by 20%."
+            }
+        },
+        "stats": {
+                "ascensionStat": "HP%",
+                "hp": [930, 2389, 3084, 4619, 5113, 5881, 6540, 7308, 7801, 8569, 9062, 9831, 10324, 11092],
+                "atk": [18, 47, 60, 90, 100, 115, 128, 143, 152, 167, 177, 192, 202, 217],
+                "def": [55, 141, 182, 273, 302, 347, 386, 432, 461, 506, 535, 581, 610, 655],
+                "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+                "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+            },
+        "materials": {
+            "talentBook": "Ingenuity",
+            "bossMat": "Perpetual Caliber",
+            "localMat": "Nilotpala Lotus",
+            "commonMat": "Scroll",
+            "weeklyBossMat": "Daka's Bell"
+        },
+        "description": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+        "birthday": "December 19",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Ashely Biski",
+            "jp": "Miyu Tomita (富田 美憂)"
+        },
+        "release": {
+            "date": "November 18, 2022",
+            "version": "3.2" 
+        }
     }
 ]
