@@ -5828,5 +5828,206 @@
             "date": "November 18, 2022",
             "version": "3.2" 
         }
+    },
+    {
+        "id": 58,
+        "name": "Faruzan",
+        "fullname": "",
+        "title": "Enigmatic Machinist",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Parthian Shot",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
+                "scaling": [
+                    ["1-Hit DMG", "44.73%", "48.37%", "52.01%", "57.21%", "60.85%", "65.01%", "70.74%", "76.46%", "82.18%", "88.42%", "94.66%", "100.9%", "107.14%", "113.38%", "119.63%"], ["2-Hit DMG", "42.19%", "45.62%", "49.05%", "53.96%", "57.39%", "61.32%", "66.71%", "72.11%", "77.51%", "83.39%", "89.28%", "95.16%", "101.05%", "106.94%", "112.82%"], ["3-Hit DMG", "53.16%", "57.49%", "61.82%", "68%", "72.33%", "77.27%", "84.07%", "90.87%", "97.67%", "105.09%", "112.51%", "119.93%", "127.35%", "134.76%", "142.18%"], ["4-Hit DMG", "70.62%", "76.37%", "82.12%", "90.33%", "96.08%", "102.65%", "111.68%", "120.71%", "129.74%", "139.6%", "149.45%", "159.31%", "169.16%", "179.02%", "188.87%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Wind Realm of Nasamjnin",
+                "description": "Faruzan deploys a polyhedron that deals <b class=\"text-anemo\">AoE Anemo DMG</b> to nearby opponents. She will also enter the Manifest Gale state.<br />While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents. This arrow deals <b class=\"text-anemo\">Anemo DMG</b> based on the DMG of a fully charged Aimed Shot from \"Parthian Shot.\"<br /><br /><b class=\"text-highlight\">Pressurized Collapse</b><br />The Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. This effect will be removed after a short delay, creating a vortex that deals <b class=\"text-anemo\">AoE Anemo DMG</b> and pulls nearby objects and opponents in. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact.<br />The vortex DMG is considered Elemental Skill DMG.",
+                "scaling": [
+                    ["Skill DMG", "148.8%", "159.96%", "171.12%", "186%", "197.16%", "208.32%", "223.2%", "238.08%", "252.96%", "267.84%", "282.72%", "297.6%", "316.2%", "334.8%", "353.4%"], ["Pressurized Collapse Vortex DMG", "108%", "116.1%", "124.2%", "135%", "143.1%", "151.2%", "162%", "172.8%", "183.6%", "194.4%", "205.2%", "216%", "229.5%", "243%", "256.5%"], ["Manifest Gale Duration", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["CD", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ],
+                "splash": "The winds of truth buffet the spirits of those who seek truth, dispersing the miasma of preconception."
+            },
+            "burst": {
+                "name": "The Wind's Secret Ways",
+                "description": "Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals <b class=\"text-anemo\">AoE Anemo DMG</b>.<br />While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.<br /><br /><b class=\"text-highlight\">Whirlwind Pulse</b><li>When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to them, decreasing their <b class=\"text-anemo\">Anemo RES</b>.</li><li>The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them <b class=\"text-anemo\">Anemo DMG Bonus</b>.</li>",
+                "scaling": [
+                    ["Skill DMG", "377.6%", "405.92%", "434.24%", "472%", "500.32%", "528.64%", "566.4%", "604.16%", "641.92%", "679.68%", "717.44%", "755.2%", "802.4%", "849.6%", "896.8%"], ["Anemo DMG Bonus", "18%", "19.35%", "20.7%", "22.5%", "23.85%", "25.2%", "27%", "28.8%", "30.6%", "32.4%", "34.2%", "36%", "38.25%", "40.5%", "42.75%"], ["Prayerful Wind's Benefit Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["Anemo RES Decrease", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%"], ["Perfidious Wind's Bale Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "One must have respect for the unknown wisdom that one might find hidden in ancient ruins."
+            },
+            "a1passive": {
+                "name": "Impetuous Flow",
+                "description": "When Faruzan is in the Manifest Gale state created by <b class=\"text-highlight\">Wind Realm of Nasamjnin</b>, the amount of time taken to charge a shot is decreased by 60%, and she can apply <b class=\"text-highlight\">The Wind's Secret Ways</b>' Perfidious Wind's Bale to opponents who are hit by the vortex created by Pressurized Collapse."
+            },
+            "a4passive": {
+                "name": "Lost Wisdom of the Seven Caverns",
+                "description": "When characters affected by <b class=\"text-highlight\">The Wind's Secret Ways</b>' Prayerful Wind's Benefit deal <b class=\"text-anemo\">Anemo DMG</b> using Normal, Charged, Plunging Attacks, Elemental Skills, or Elemental Bursts to opponents, they will gain the Hurricane Guard effect: This DMG will be increased based on 32% of Faruzan's Base ATK. 1 instance of Hurricane Guard can occur once every 0.8s. This DMG Bonus will be cleared after Prayerful Wind's Benefit expires or after the effect is triggered once."
+            },
+            "utilpassive": {
+                "name": "Tomes Light the Path",
+                "description": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
+            }
+        },
+        "constellation": {
+            "name": "Flosculi Implexi",
+            "c1": {
+                "name": "Truth by Any Means",
+                "description": "Faruzan can fire off a maximum of 2 Hurricane Arrows using fully charged Aimed Shots while under the effect of a single Manifest Gale created by <b class=\"text-highlight\">Wind Realm of Nasamjnin</b>."
+            },
+            "c2": {
+                "name": "Overzealous Intellect",
+                "description": "The duration of the Dazzling Polyhedron created by <b class=\"text-highlight\">The Wind's Secret Ways</b> increased by 6s."
+            },
+            "c3": {
+                "name": "Spirit-Orchard Stroll",
+                "description": "Increases the Level of <b class=\"text-highlight\">Wind Realm of Nasamjnin</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Divine Comprehension",
+                "description": "The vortex created by <b class=\"text-highlight\">Pressurized Collapses</b> will restore Energy to Faruzan based on the number of opponents hit: If it hits 1 opponent, it will restore 2 Energy for Faruzan. Each additional opponent hit will restore 0.5 more Energy for Faruzan.<br />A maximum of 4 Energy can be restored to her per vortex."
+            },
+            "c5": {
+                "name": "Wonderland of Rumination",
+                "description": "Increases the Level of <b class=\"text-highlight\">The Wind's Secret Ways</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "The Wondrous Path of Truth",
+                "description": "Characters affected by <b class=\"text-highlight\">The Wind's Secret Ways</b>' Prayerful Wind's Benefit have 40% increased CRIT DMG when they deal <b class=\"text-anemo\">Anemo DMG</b>. When the active character deals DMG while affected by Prayerful Wind's Benefit, they will apply Pressurized Collapse to the opponent damaged. This effect can be triggered once every 3s. This CD is shared between all party members."
+            }
+        },
+        "stats": {
+                "ascensionStat": "ATK%",
+                "hp": [802, 2061, 2661, 3985, 4411, 5074, 5642, 6305, 6731, 7393, 7818, 8481, 8907, 9570],
+                "atk": [16, 42, 55, 82, 91, 104, 116, 129, 138, 152, 161, 174, 183, 196],
+                "def": [53, 135, 175, 262, 289, 333, 370, 414, 442, 485, 513, 556, 584, 628],
+                "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+                "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+            },
+        "materials": {
+            "talentBook": "Admonition",
+            "bossMat": "Light Guiding Tetrahedron",
+            "localMat": "Henna Berry",
+            "commonMat": "Headband",
+            "weeklyBossMat": "Puppet Strings"
+        },
+        "description": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
+        "birthday": "August 20",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Chandni Parekh",
+            "jp": "Yui Horie (堀江 由衣)"
+        },
+        "release": {
+            "date": "December 7, 2022",
+            "version": "3.3" 
+        }
+    },
+    {
+        "id": 59,
+        "name": "Wanderer",
+        "fullname": "",
+        "title": "Eons Adrift",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Yuuban Meigen",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 attacks using wind blades, dealing <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina, gathers a build up of high wind pressure, and deals <b class=\"text-anemo\">AoE Anemo DMG</b> after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Calling upon the power of Anemo, the Wanderer plunges towards the ground from mid-air, damaging all opponents in his path. Deals <b class=\"text-anemo\">AoE Anemo DMG</b> upon impact with the ground.",
+                "scaling": [
+                    ["1-Hit DMG", "68.71%", "74.31%", "79.9%", "87.89%", "93.48%", "99.87%", "108.66%", "117.45%", "126.24%", "135.83%", "145.42%", "155.01%", "164.59%", "174.18%", "183.77%"], ["2-Hit DMG", "65.02%", "70.31%", "75.6%", "83.16%", "88.45%", "94.5%", "102.82%", "111.13%", "119.45%", "128.52%", "137.59%", "146.66%", "155.74%", "164.81%", "173.88%"], ["3-Hit DMG", "47.64% + 47.64%", "51.52% + 51.52%", "55.4% + 55.4%", "60.94% + 60.94%", "64.82% + 64.82%", "69.25% + 69.25%", "75.34% + 75.34%", "81.44% + 81.44%", "87.53% + 87.53%", "94.18% + 94.18%", "100.83% + 100.83%", "107.48% + 107.48%", "114.12% + 114.12%", "120.77% + 120.77%", "127.42% + 127.42%"], ["Charged Attack DMG", "132.08%", "141.99%", "151.89%", "165.1%", "175.01%", "184.91%", "198.12%", "211.33%", "224.54%", "237.74%", "250.95%", "264.16%", "280.67%", "297.18%", "313.69%"], ["Charged Attack Stamina Cost", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Hanega: Song of the Wind",
+                "description": "Concentrates the power of the winds to break free from the shackles of the earth, dealing <b class=\"text-anemo\">AoE Anemo DMG</b> before leaping into the air and entering the Windfavored state.<br /><br /><b class=\"text-highlight\">Windfavored</b><br />The Wanderer cannot perform Plunging Attacks in this state. When he uses Normal and Charged Attacks, they will be converted into Kuugo: Fushoudan and Kuugo: Toufukai respectively; the DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively. Kuugo: Toufukai will not consume Stamina.<br />The Wanderer will hover persistently during this time. While this state is active, the Wanderer's movements gain the following properties:<li>Persistently consumes Kuugoryoku Points to maintain this hovering state.</li><li>When sprinting, additional Kuugoryoku Points will be consumed for the Wanderer to accelerate mid-air. Holding sprint will cause persistent Kuugoryoku Point consumption to maintain speed. This effect will replace his default sprint.</li><li>Jumping expends extra Kuugoryoku Points to increase hovering height. Holding jump will cause persistent Kuugoryoku Point consumption to keep increasing hovering height.</li><br />Running out of Kuugoryoku Points will end the Windfavored state.<br />A second cast during the duration of Windfavored will also end it.",
+                "scaling": [
+                    ["Skill DMG", "95.2%", "102.34%", "109.48%", "119%", "126.14%", "133.28%", "142.8%", "152.32%", "161.84%", "171.36%", "180.88%", "190.4%", "202.3%", "214.2%", "226.1%"], ["Kuugo: Fushoudan DMG", "132.98% Normal Attack DMG", "134.96% Normal Attack DMG", "136.93% Normal Attack DMG", "139.5% Normal Attack DMG", "141.47% Normal Attack DMG", "143.45% Normal Attack DMG", "146.02% Normal Attack DMG", "148.58% Normal Attack DMG", "151.15% Normal Attack DMG", "153.72% Normal Attack DMG", "156.29% Normal Attack DMG", "158.85% Normal Attack DMG", "161.42% Normal Attack DMG", "163.99% Normal Attack DMG", "166.56% Normal Attack DMG"], ["Kuugo: Toufukai DMG", "126.39% Character Attack DMG", "127.97% Character Attack DMG", "129.55% Character Attack DMG", "131.6% Character Attack DMG", "133.18% Character Attack DMG", "134.76% Character Attack DMG", "136.81% Character Attack DMG", "138.87% Character Attack DMG", "140.92% Character Attack DMG", "142.98% Character Attack DMG", "145.03% Character Attack DMG", "147.08% Character Attack DMG", "149.14% Character Attack DMG", "151.19% Character Attack DMG", "153.25% Character Attack DMG"], ["Initial Kuugoryoku Points", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100", "100"], ["CD", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ],
+                "splash": "\"The world dances in a weightless whirl, presenting a secret that can only be found in the flowers.\""
+            },
+            "burst": {
+                "name": "Kyougen: Five Ceremonial Plays",
+                "description": "Compresses the atmosphere into a singular vacuum that grinds all troubles away, dealing multiple instances of <b class=\"text-anemo\">AoE Anemo DMG</b>.<br />If the character is in the Windfavored state due to the skill \"Hanega: Song of the Wind\", Windfavored state will end after casting.",
+                "scaling": [
+                    ["Skill DMG", "147.2%x5", "158.24%x5", "169.28%x5", "184%x5", "195.04%x5", "206.08%x5", "220.8%x5", "235.52%x5", "250.24%x5", "264.96%x5", "279.68%x5", "294.4%x5", "312.8%x5", "331.2%x5", "349.6%x5"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"Bright be the narrowed gaze of the sky, casting its gaze on dreams both past and present, like radiance washing over dust on the winds.\""
+            },
+            "a1passive": {
+                "name": "Jade-Claimed Flower",
+                "description": "If <b class=\"text-highlight\">Hanega: Song of the Wind</b> comes into contact with <b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-cryo\">Cryo</b>/<b class=\"text-electro\">Electro</b> when it is unleashed, this instance of the Windfavored state will obtain buffs according to the contacted element(s):<li><b class=\"text-hydro\">Hydro</b>: Kuugoryoku Point cap increases by 20.</li><li><b class=\"text-pyro\">Pyro</b>: ATK increases by 30%.</li><li><b class=\"text-cryo\">Cryo</b>: CRIT Rate increases by 20%.</li><li><b class=\"text-electro\">Electro</b>: When Normal and Charged Attacks hit an opponent, 0.8 Energy will be restored. Energy can be restored this way once every 0.2s.</li><br />You can have up to 2 different kinds of these buffs simultaneously."
+            },
+            "a4passive": {
+                "name": "Gales of Reverie",
+                "description": "When the Wanderer hits opponents with Kuugo: Fushoudan or Kuugo: Toufukai in his <b class=\"text-highlight\">Windfavored</b> state, he has a 16% chance to obtain the Descent effect: The next time the Wanderer accelerates in mid-air while in this instance of the Windfavored state, this effect will be removed, this acceleration instance will not consume any Kuugoryoku Points, and he will fire off 4 wind arrows that deal 35% of his ATK as <b class=\"text-anemo\">Anemo DMG</b> each.<br />For each Kuugo: Fushoudan and Kuugo: Toufukai that does not produce this effect, the next attack of those types will have a 12% increased chance of producing it. The calculation of the effect production is done once every 0.1s."
+            },
+            "utilpassive": {
+                "name": "Strum the Swirling Winds",
+                "description": "Mora expended when ascending Bows and Catalysts is decreased by 50%."
+            }
+        },
+        "constellation": {
+            "name": "Peregrinus",
+            "c1": {
+                "name": "Shoban: Ostentatious Plumage",
+                "description": "When in the <b class=\"text-highlight\">Windfavored</b> state, the Attack SPD of the Wanderer's Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%.<br />Additionally, the wind arrows fired by the Passive Talent \"Gales of Reverie\" will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent \"Gales of Reverie\" first."
+            },
+            "c2": {
+                "name": "Niban: Moonlit Isle Amidst White Waves",
+                "description": "When in the <b class=\"text-highlight\">Windfavored</b> state, <b class=\"text-highlight\">Kyougen: Five Ceremonial Plays</b> will see its DMG increased by 4% per point of difference between the max amount of Kuugoryoku Points contrasted with Kuugoryoku's present capacity when using this skill.<br />Through this method, you can increase Kyougen: Five Ceremonial Plays's DMG by a maximum of 200%."
+            },
+            "c3": {
+                "name": "Sanban: Moonflower Kusemai",
+                "description": "Increases the Level of <b class=\"text-highlight\">Kyougen: Five Ceremonial Plays</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Yonban: Set Adrift into Spring",
+                "description": "When casting <b class=\"text-highlight\">Hanega: Song of the Wind</b>, should the Passive Talent \"Jade-Claimed Flower\" be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously.<br />You must unlock the Passive Talent \"Jade-Claimed Flower\" first."
+            },
+            "c5": {
+                "name": "Matsuban: Ancient Illuminator From Abroad",
+                "description": "Increases the Level of <b class=\"text-highlight\">Hanega: Song of the Wind</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Shugen: The Curtains' Melancholic Sway",
+                "description": "When the Wanderer actively hits opponents with Kuugo: Fushoudan while in the <b class=\"text-highlight\">Windfavored</b> state, the following effects will occur:<li>Deals an additional instance of Kuugo: Fushoudan at the position hit, dealing 40% of the attack's original DMG. This DMG will be considered Normal Attack DMG.</li><li>When the Wanderer falls below 40 Kuugoryoku Points, restores 4 Points to him. Kuugoryoku Points can be restored in this manner once every 0.2s. This restoration can occur up to 5 times within one Windfavored duration.</li>"
+            }
+        },
+        "stats": {
+                "ascensionStat": "CRIT Rate",
+                "hp": [791, 2053, 2731, 4086, 4568, 5256, 5899, 6593, 7075, 7777, 8259, 8968, 9450, 10164],
+                "atk": [26, 66, 88, 132, 147, 169, 190, 213, 228, 251, 266, 289, 305, 328],
+                "def": [47, 123, 163, 244, 273, 314, 352, 394, 423, 465, 493, 536, 564, 607],
+                "critRate": [5, 5, 5, 5, 9.8, 9.8, 14.6, 14.6, 14.6, 14.6, 19.4, 19.4, 24.2, 24.2],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50]
+            },
+        "materials": {
+            "talentBook": "Praxis",
+            "bossMat": "Perpetual Caliber",
+            "localMat": "Rukkhashava Mushrooms",
+            "commonMat": "Handguard",
+            "weeklyBossMat": "Daka's Bell"
+        },
+        "description": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
+        "birthday": "January 3",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Patrick Pedraza",
+            "jp": "Tetsuya Kakihara (柿原 徹也)"
+        },
+        "release": {
+            "date": "December 7, 2022",
+            "version": "3.3" 
+        }
     }
 ]
